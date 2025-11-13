@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title> Lesson 5 - calculator </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <p>
+        <button class="one" onclick="
+            calculation += 1;
+            console.log(`${calculation}`)"> 
+            1 
+        </button>
+
+        <button class="two" onclick="
+            calculation += 2;
+            console.log(`${calculation}`)"> 
+            2 
+        </button>
+
+        <button class="three" onclick="
+            calculation += 3;
+            console.log(`${calculation}`)"> 
+            3 
+        </button>
+
+        <button class="plus" onclick="
+            calculation += ' + ';
+            console.log(`${calculation}`)"> 
+            + 
+        </button>
+    </p>
+
+
+    <p>
+        <button class="four" onclick="
+            calculation += 4;
+            console.log(`${calculation}`)"> 
+            4
+        </button>
+
+        <button class="five" onclick="
+            calculation += 5;
+            console.log(`${calculation}`)"> 
+            5
+        </button>
+
+        <button class="six" onclick="
+            calculation += 6;
+            console.log(`${calculation}`)"> 
+            6 
+        </button>
+
+        <button class="equal-to" onclick="
+        calculation = eval(calculation);
+        console.log(calculation);
+        "> 
+            = 
+        </button>
+    </p>
+
+
+    <p>
+        <button class="seven" onclick="
+            calculation += 7;
+            console.log(`${calculation}`)"> 
+            7
+        </button>
+
+        <button class="eight" onclick="
+            calculation += 8;
+            console.log(`${calculation}`)"> 
+            8
+        </button>
+
+        <button class="nine" onclick="
+            calculation += 9;
+            console.log(`${calculation}`)"> 
+            9
+        </button>
+
+        <button class="cleared" onclick="
+        calculation = ``;
+        console.log(calculation);
+        "> 
+            Clear 
+        </button>
+    </p>
+
+    <script src="script/script.js"></script>
+</body>
+</html>

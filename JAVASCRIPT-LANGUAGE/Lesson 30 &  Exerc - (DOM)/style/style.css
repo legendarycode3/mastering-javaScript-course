@@ -1,0 +1,36 @@
+body {
+    margin-top: 100px;
+    background-color: #000000;
+    text-align: center;
+}
+
+.cs-result {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 15px;
+    height: 50px;
+    width: 50px;
+}
+
+.cs-arithematic-operations {
+    border-radius: 25px;
+    background-color: #fea00a;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+
+.cs-number {
+    background-color: #333333;
+    color: #ffffff;
+    font-size: 15px;
+    border: none;
+    border-radius: 25px;
+}
+

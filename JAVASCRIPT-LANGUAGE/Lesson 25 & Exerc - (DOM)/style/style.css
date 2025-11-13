@@ -1,0 +1,28 @@
+body {
+    margin-top: 100px;
+
+}
+
+.container {
+    text-align: center;
+}
+
+.input-element-container {
+    display: flexbox;
+    justify-self: center;
+}
+
+.cs-input-text {
+    text-align: center;
+    padding: 20px 130px ;
+}
+
+
+
+.cs-par {
+    text-align: center;
+}
+
+button {
+    padding: 20px 50px;
+}

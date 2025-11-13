@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title> Lesson 24 -> Cart Quantity Project with ( DOM ) </title>
+
+</head>
+<body>
+
+    <button class="show-quantity" onclick="
+        console.log(`Cart Quantity: ${ cartQuantity}` )"> 
+        Show Quantity 
+    </button>
+
+    <button class="js-add-cart add-cart" onclick="
+        // cartQuantity = cartQuantity + 1;
+        /*cartQuantity += 1;
+        console.log(`Cart Quantity: ${cartQuantity}`); */ 
+            addCart();
+        "> 
+            Add To Cart 
+    </button>
+
+    <button class="plus-two" onclick="
+             plusTwo();
+        /* cartQuantity = cartQuantity + 2;
+        console.log(`Cart Quantity: ${cartQuantity}`) */ ">
+            +2
+    </button>
+
+    <button class="plus-three" onclick="
+        // cartQuantity = cartQuantity + 3;
+            plusThree();
+        /* cartQuantity += 3;
+        console.log(`Cart Quantity: ${cartQuantity}`)*/ ">
+            +3
+    </button>
+
+
+    <button class="reset-cart" onclick="
+            plusFour();
+        /* cartQuantity = 0;
+        console.log(`Cart was reset.`);
+        console.log(`Cart Quantity: ${cartQuantity}`)*/ ">
+            Reset Cart
+    </button>
+
+    <P class="displayQuantity"> </P>
+
+    <script src="script/script.js"></script>
+    
+</body>
+</html>

@@ -1,0 +1,7 @@
+.cs-click-button {
+    display: grid;
+    justify-self: center;
+    padding: 20px 50px;
+    font: 500px;
+    font-weight: bold;
+}

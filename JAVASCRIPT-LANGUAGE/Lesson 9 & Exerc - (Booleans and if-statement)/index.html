@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title> Lesson 9 - CoinFlip Project </title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <p> Coin Flip Game</p>
+
+    <div cla class="grid-container">
+        <button class="head" onclick="
+            const randomNumber1 = Math.random();
+            let computerPlayerSelection1 = '';
+
+            if(randomNumber1 < 0.5){
+                computerPlayerSelection1 = 'head';
+                
+            }
+            else {
+            computerPlayerSelection1 = 'Something Else';
+            }
+            console.log(computerPlayerSelection1);
+            console.log(randomNumber1);
+
+
+            let results1 = '';
+
+            // let computerPlayer = computerPlayerSelection1 === 'head' ?  results1 = 'YOU WON. Guess What, You got the HEAD' : results1 = 'YOU LOST, You picked the wrong Number'
+
+            if(computerPlayerSelection1 === 'head') {
+                results1 = 'YOU WON. Guess What, You got the HEAD';
+
+            }else{
+                results1 = 'YOU LOST, You picked the wrong Number';
+            }
+           
+            
+            console.log(results1);
+
+
+
+            alert(`You Picked HEAD. Computer Selected ${computerPlayerSelection1}. ${results1}`);
+            ">
+            HEAD 
+        </button>
+
+        <p> Or </p>
+
+
+        <button class="tail" onclick="
+            const randomNumber2 = Math.random();
+            let computerPlayerSelection2 = '';
+
+            if(randomNumber2 > 0.5){
+                computerPlayerSelection2 = 'Tail';
+                
+            }
+            else {
+            computerPlayerSelection2 = 'Something Else';
+            }
+            console.log(computerPlayerSelection2);
+            console.log(randomNumber2);
+
+
+            let results2 = '';
+            if(computerPlayerSelection2 === 'Tail') {
+                results2 = 'YOU WON. Guess What, You got the TAIL';
+
+            }else{
+                results2 = 'YOU LOST, You picked the wrong Number';
+            }
+            console.log(results2);
+
+
+
+            alert(`You Picked TAIL. Computer Selected ${computerPlayerSelection2}. ${results2}`);
+        ">
+            TAIL
+        </button>
+    </div>
+
+
+    <script>
+        
+    </script>
+</body>
+</html>

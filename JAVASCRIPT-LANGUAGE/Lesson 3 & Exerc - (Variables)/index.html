@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>  Lesson 3 -  (cart Quantity Project) </title>
+</head>
+<body>
+    <button class="show-quantity" onclick="
+        console.log(`Cart Quantity: ${ cartQuantity}` )"> 
+        Show Quantity 
+    </button>
+
+    <button class="add-cart" onclick="
+        // cartQuantity = cartQuantity + 1;
+        cartQuantity += 1;
+        console.log(`Cart Quantity: ${cartQuantity}`);"> 
+            Add To Cart 
+    </button>
+
+    <button class="plus-two" onclick="
+        cartQuantity = cartQuantity + 2;
+        console.log(`Cart Quantity: ${cartQuantity}`)">
+            +2
+    </button>
+
+    <button class="plus-three" onclick="
+        // cartQuantity = cartQuantity + 3;
+        
+        cartQuantity += 3;
+        console.log(`Cart Quantity: ${cartQuantity}`)">
+            +3
+    </button>
+
+    <button class="reset-cart" onclick="
+        cartQuantity = 0;
+        console.log(`Cart was reset.`);
+        console.log(`Cart Quantity: ${cartQuantity}`)">
+            Reset Cart
+    </button>
+
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>

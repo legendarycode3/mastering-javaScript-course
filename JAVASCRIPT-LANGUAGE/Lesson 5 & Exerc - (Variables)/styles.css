@@ -1,0 +1,22 @@
+body {
+    text-align: center; 
+}
+
+.one,
+.two,
+.three,
+.plus,
+.four,
+.five,
+.six,
+.equal-to,
+.seven,
+.eight,
+.nine {
+    width: 50px;
+    padding: 10px 10px;
+}
+
+.cleared {
+    padding: 10px 8px;
+}

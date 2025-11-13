@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title> Lesson 20 ->  Rock-Paper-Scissor - with ( DOM ) </title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h4> Rock Paper Scissor </h4>
+
+    <div class="buttons">
+        <button onclick="
+            playGame('rock');
+            
+            ">
+            Rocks
+        </button>
+    
+
+        <button onclick="
+            playGame('Paper');
+
+            //   const computerMove = pickComputerMove();
+         //     let result2 = '';
+         //     if (computerMove === 'rock'){
+         //        result2 = 'Tie';
+         //     } else if(computerMove === 'Paper') {
+         //        result2 = 'You Won';
+         //     } else if(computerMove  === 'Scissor'){
+         //        result2 = 'You Lose';
+         //     }
+             
+         //     console.log(result2);
+         //     alert(`You picked Paper. Computer picked ${computerMove}. ${result2}`);
+            ">
+            Papers
+        </button>
+    
+
+        <button onclick="
+            playGame('Scissor');
+
+            // const computerMove = pickComputerMove();
+
+            //  let result = '';
+            //  if (computerMove === 'rock'){
+            //     result = 'You Lose';
+            //  } else if(computerMove === 'Paper') {
+            //     result = 'Tie';
+            //  } else if(computerMove === 'Scissor'){
+            //     result = 'You Won';
+            //  }
+             
+            //  console.log(result);
+            //  alert(`You picked Scissor. Computer picked ${computerMove}. ${result}`);
+        ">
+            Scissors
+        </button>
+
+
+        <button onclick="
+             score.wins = 0;
+             score.losses = 0;
+             score.ties = 0;
+             localStorage.removeItem('score');
+             updateScoreElement();
+            "> Reset Score
+        </button>
+    </div>
+    <div>
+        <p class="js-result"> </p>
+        <p class="js-moves"> </p>
+        <p class="js-score cs-score"> </p>
+    </div>
+
+
+    <script src="script/script.js"></script>
+</body>
+</html>

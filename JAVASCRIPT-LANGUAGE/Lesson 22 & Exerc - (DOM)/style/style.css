@@ -1,0 +1,37 @@
+body {
+   text-align: center;
+   margin-top: 50px;
+}
+
+.head-button,
+.tail-button  {
+    padding: 20px 100px ;
+}
+
+
+.head-button {
+    margin-right: 30px;
+}
+
+
+.head-button:hover {
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.tail-button:hover {
+     background-color: blue;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.head-button:active {
+    background-color: red;
+}
+
+.tail-button:active {
+     background-color: red;
+}

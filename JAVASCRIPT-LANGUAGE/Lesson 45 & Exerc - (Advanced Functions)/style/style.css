@@ -1,0 +1,17 @@
+.cs-button {
+    display: grid;
+    padding: 10px 30px;
+    justify-self: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.cs-button:active {
+    background-color: blue;
+    color: white;
+}
+
+/* .is-toggled {
+    background-color: rgb(65, 49, 49);
+    color: white;
+} */

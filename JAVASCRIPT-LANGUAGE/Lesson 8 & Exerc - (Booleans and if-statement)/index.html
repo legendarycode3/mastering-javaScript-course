@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>  Lesson 8  -  24 Hour Time Project </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <button id="clock" onclick="
+       time();
+    ">
+
+    HOURS
+    </button>
+
+    <script>
+    
+    function time() {
+         let currentDate = new Date();
+        let hours = currentDate.getHours();
+        let minutes = currentDate.getMinutes();
+        let seconds = currentDate.getSeconds();
+
+        const name = 'LegendaryCode';
+        
+        if(hours >= 6 && hours <= 12){
+            console.log(`GOOD MORNING  ${name}, The Time is:  ${hours} : ${minutes} : ${seconds}`);
+        }else if(hours > 12 && hours <= 17) {
+            console.log(` GOOD AFTERNOON ${name}, The Time is: ${hours} : ${minutes}: ${seconds}`);
+        }
+        else {
+            console.log(`GOOD NIGHT`);
+        }
+
+        // hours = hours > 10 ?  hours : hours;
+        // minutes = minutes > 10  ? minutes : minutes;
+        // seconds = seconds > 10 ? seconds : console.log('sec');
+         
+        // let timestampString = hours + ':' + minutes + ':' + seconds;
+        // let timestampStrings = `${hours} : ${minutes} : ${seconds}`;
+
+        // document.getElementById('clock').innerHTML = timestampString;
+        
+        // console.log(timestampStrings);
+    }
+       
+    </script>
+</body>
+</html>
+
+
