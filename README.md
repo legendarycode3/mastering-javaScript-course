@@ -24,6 +24,7 @@ I will use Visual studio code and I will use it in this challenge too. I strongl
 
 ➡️ **What Is JavaScript ?** <br/>
 Javascript is the technology we use to create Websites. We use javascript to modify the Web Page. Javascript was create by “Brendan Eich” in 1995. <br/>
+
    ✔️ **Three (3) major technologies we use in creating website, they include:** <br/>
    1. Html
    2. Css
@@ -32,6 +33,7 @@ Javascript is the technology we use to create Websites. We use javascript to mod
 
 
 ➡️ **Numbers And MAths (In Javascript)** <br/>
+
    ✔️ **Data Types In Javascript** <br/>
    Javascript has 8 basic data types, which are categoried into “primitive & non-primitive types”. <br/>
    
@@ -95,3 +97,28 @@ Javascript is the technology we use to create Websites. We use javascript to mod
 
 
 ➡️ **STRINGS (IN JAVASCRIPT)** <br/>
+
+      ✔️ **Strings = text** <br/>
+         Concatenation means when we combine strings together (e.g ‘some’ + ‘more’) . <br/>
+         E.g  of concatenated string 
+         ‘Items (‘+ (1+1) + ‘): $ ’ + (2095 + 799) /100
+         
+      ✔️ **A Character can be :** <br/>
+         1.letter (a,b,c) <br/>
+         2.Numbers (1,2,3) <br/>
+         3.Symbol (!,@,#) <br/>
+         4.Escape character  \’  , \n  <br/>
+         5.Backtick `` :- To inset values you need to use this using back ticks <br/>
+         E.g of a javascript string format: 
+         ‘I\’m  learning javascript’
+         `how are you jerick
+
+         NOTE:  String created by back-ticks are called template strings
+         I.) The First Special Feature of Template Strings is call ‘interpolation’: Interpolation lets us insect a value directly into a string. <br/>
+         E.g of a interpolated template string
+         `Items (${1+1}): $${(2095 + 799)/100}`
+
+         II.) The Second Special Feature of Template Strings is called ‘Multi-Line Strings’ <br/>
+         E.g of a multi-line template string
+                `Some
+         	Text`
