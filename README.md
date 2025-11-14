@@ -20,13 +20,16 @@ I will use Visual studio code and I will use it in this challenge too. I strongl
 **EVERY LESSONS YOU WILL FIND ON THIS "JAVASCRIPT" Practically COURSE are :** <br/>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-➡️ **What Is JavaScript ?** <br/>
-Javascript is the technology we use to create Websites. We use javascript to modify the Web Page. Javascript was create by “Brendan Eich” in 1995.
 
-➡️ **Three (3) major technologies we use in creating website, they include:** <br/>
-1. Html
-2. Css
-3. Javascript
+
+➡️ **What Is JavaScript ?** <br/>
+Javascript is the technology we use to create Websites. We use javascript to modify the Web Page. Javascript was create by “Brendan Eich” in 1995. <br/>
+   ✔️ **Three (3) major technologies we use in creating website, they include:** <br/>
+   1. Html
+   2. Css
+   3. Javascript
+
+
 
 ➡️ **Numbers And MAths (In Javascript)** <br/>
    ✔️ **Data Types In Javascript** <br/>
@@ -43,3 +46,52 @@ Javascript is the technology we use to create Websites. We use javascript to mod
   
   Non-Primitive Data Types:  These are mutable and represent more complex structure. <br/>
   8)Object: Represents a collection of key-value pairs.  It can be used to store various data structures , including other objects, arrays and functions . Arrays and functions are technically special kind of objects in javascript.
+
+   ✔️ **OrderOf Operation (with the operators)** <br/>
+      1) (...) <br/>
+      2) * /  <br/>
+      3) + -  <br/>
+      4) Comparison Operators  <br/>
+      5) Logical Operators  <br/>
+
+      In Javascript Order of operation is done this way below:  
+      * / are done first
+      + - are done after
+
+      NOTE: We can use brackets () to control which part of the calculation gets done first. <br/>
+      In programming:  2,3,4 = integers  &  2.3, 2.7 <br/>
+
+   ✔️ **The following table summarizes the Math object's methods** <br/>
+      a) abs().   /for absolute value <br/>
+      
+      b) sin(). , cos(). , tan().    /Standard trigonometric functions; with the argument in radians. <br/>
+      
+      c) asin(). , acos(), atan(). , atan2().   /Inverse trigonometric functions; return values in radians. <br/>
+      
+      d) sinh(). , cosh(). , tanh().  /Hyperbolic functions; argument in hyperbolic angle. <br/>
+      
+      e) asinh(). , acosh(). , atanh().   /Inverse hyperbolic functions; return values in hyperbolic angle. <br/>
+      
+      f) pow(). , exp(). , expm1(). , log(). , log10(). , log1p(). , log2().   /Exponential and logarithmic functions. <br/>
+      
+      g) floor(). , ceil().     /Returns the largest/smallest integer less/greater than or equal to an argument.  <br/>
+      
+      h) min(). , max().     /value of a comma separated list of numbers as arguments. <br/>
+      
+      i) random().      /Returns a random number between 0 and 1. <br/>
+      
+      j) round(). , fround(). , trunc(). ,      /Rounding and truncation functions. <br/>
+      
+      k) sqrt()., cbrt()., hypot().      /Square root, cube root, Square root of the sum of square arguments. <br/>
+      
+      l) sign().      /The sign of a number, indicating whether the number is positive, negative or zero. <br/>
+      
+      m) clz32(). ,      /Number of leading zero bits in the 32-bit binary representation. <br/>
+      
+      n) imul().      /The result of the C-like 32-bit multiplication of the two arguments. <br/>
+      
+      E.g   Math.random();
+
+
+
+➡️ **STRINGS (IN JAVASCRIPT)** <br/>
