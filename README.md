@@ -126,3 +126,15 @@ Javascript is the technology we use to create Websites. We use javascript to mod
 
 
 ➡️ **VARIABLES (IN JAVASCRIPT)** <br/>
+   ✔️ Variable: A variable is just a container for value , we can save a number or a string etc. inside a variable.  <br/>
+	Variable = container  <br/>
+	E.g  
+	let variable1 = 3; <br/>
+   
+   ✔️Declaring a variable: To use a “variable” , you got to first of all create it.
+	E.g  let variable;    => Note this is a  an empty container <br/>
+   
+   ✔️ Initializing a variable: Once you “declared a variable” , you can now “initialze” it with a value .  <br/>
+	E.g variable = 2; 
+   NOTE: You can also “declare & initialize” you variable the same time. <br/>
+   E.g let coddy = 26; 
