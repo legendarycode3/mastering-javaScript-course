@@ -138,3 +138,70 @@ Javascript is the technology we use to create Websites. We use javascript to mod
 	E.g variable = 2; 
    NOTE: You can also “declare & initialize” you variable the same time. <br/>
    E.g let coddy = 26; 
+
+✔️ **Variable Types**: There are a few different  types of data we can  store in variable. <br/>
+
+	1. Numbers: you can store numbers in variables (integers “whole numbers” , decimal numbers “floating numbers” )  <br/>
+	e.g let myAge= 21;  <br/>
+	
+	2. Strings: String are piece of text. When you give a a variable a string value, you need a wrap it in a single / double / backticks quote marks <br/>
+		   e.g let hello = ‘this is it’;
+	 	    e.g let hiLegend = `his is it`;
+		 e.g let welcome = "this is it";
+	
+	3. Booleans: They are another type of value.  Booleans are true of false values . They can have two values , true or false . They are generally used to test conditions 	<br/>
+		 e.g let message = true;
+	
+	4. Arrays: are single object that contains multiply values enclosed in a square bracket & separated with commas. <br/>
+		e.g let myArray = [‘ifeanyi’, ‘legendarycode’]; 
+		e.g let myTeam = [“ifeanyi”, “legendarycode”];
+		e.g let numberArray = [2, 3, 5];
+		NOTE: once the arrays are defined you can access each value by their locationwithin the array.
+		numberArray[2];
+		
+	5. Objects: In programming is a structure of code that models real-life objects. <br/>
+		e.g let  cats = { name: “meo”,  breed: “delmation”};
+		To retrieve the function stored in the object you do this:
+		cats.name;
+	
+	6. Constants in javascript: As well as variables, yo can declare constants. These are like variables, except that 
+	- “you must initialize them when you declare them”.
+	- “You can’t assign them a new value after you have initialized them”. <br/>
+
+✔️ Naming Conventions :  <br/>
+	a)camalCase naming convention:  <br/>
+		e.g cartQuantity  <br/>
+	b)PaschalCase naming convention: <br/>
+		e.g CartQuantity <br/>
+	c)kebab-case namin convention:   <br/>
+		e.g cart-quantity (this doenot work in javascript but we use this in our file name , html, css etc.) <br/>
+	d) snake_case naming convention:  cart_quantity <br/>
+		e.g  snake_case  (this is used in other programming lang. Not in javascript ). <br/>
+
+
+
+
+➡️ **BOOLEANS & IF-STATEMENT (Conditional statements)** <br/>
+	Booleans are another type of values in javascript. But booleans are special because there are only two (2) values:  <br/>
+true, false. <br/>
+	✔️ Comparison Operators: <br/>
+		(i.) greater than  >
+		(ii.) less than <
+		(iii.) greater than or equal to >=
+		(iv.) lesser than or equal <=
+		(v.) equal to ===
+		(vi.) Not equal to !== 
+
+	✔️ Logical Operators: <br/>
+		Logical operators lets us combine boolean values. <br/>
+		<i.> AND Operator (&&):- It checks if the right side is true and also the left side is true. <br/>
+		e.g
+		Console.log(true && true);    => results equals “true”
+
+		<ii.> OR  Operator (||):- It checks if the left sides is true or the right side is true. <br/>
+		e.g
+		Console.log(true  || false);    => results equals “false” <br/>
+		
+		<iii.> Not Operator (!):- The Not operator only uses one operator and flips it into opposite value. <br/>
+		e.g
+		Console.log( !false);    => results equals “true” <br/>
