@@ -205,3 +205,42 @@ true, false. <br/>
 		<iii.> Not Operator (!):- The Not operator only uses one operator and flips it into opposite value. <br/>
 		e.g
 		Console.log( !false);    => results equals “true” <br/>
+
+
+
+➡️ **FUNCTIONS** <br/>
+	What is a function: Functions are the fundamental building blocks in javascript. A function lets us re-use code.  <br/>
+	NOTE: Functions are values so we can use a function as a parameter in another function we exported <br/>
+
+	✔️ Defining Functions: <br/>
+		Functions declaration . A function definition (also known as “function declaration , or function statement” ) consist of the function keyword followed by: <br/>
+		a) The name of the function.  <br/>
+		b) A list of parameters to the function, enclosed in paranthesis separated by commas.  <br/>
+		c) The javascript statements that defiine the function , enclosed in curly braces , { /* … */ }  <br/>
+
+	✔️ Function Expression:  Functions can also be created by a function expression. Such functioncan be anonymous; It dies not have to have a name.  <br/>
+
+	✔️ Calling  Functions: Defining a function does not execute. Defining it names the function  and specifies what to do when the functionis called. Calling the function actually performs the specified actions with the indicated parameters. For example, if you define the function add, you could call it as follows:  <br/>
+
+	✔️ Why do we use Function ? <br/>
+		A function lets us re-use code. <br/>
+		Functions make our easier to update. <br/>
+
+	✔️ Return Statement:   A return statement  lets us  get value out of a function. A  return statement in javascript functions serve to “exit the functions”  executionand optionally provide  value back to the caller. When a return statement is encountered , the function immediately stops running, and any code that follows the return statement within the function is not executed. If a value is specified after the return keyword, that value is return to the part of the code that called the function.  If  no value is specified , the function returns undefined.  <br/>
+
+NOTE: With a “return value or return function” , you can use the value returned outside of a particular function.  <br/>
+
+	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
+		While a “return statement” , gets a value out of a function  <br/>
+		A parameter works the same way as a variable.  <br/>
+
+	✔️ Rules for Parameter Names: <br/>
+		(1) Can’t use special words.   
+			eg. function  <br/>
+		(2) Can’t start with number.
+		(3) Can’t use special characters.  <br/>
+			eg. $ _  <br/>
+
+
+
+➡️ **OBJECTS** <br/>
