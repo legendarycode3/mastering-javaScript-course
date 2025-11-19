@@ -375,4 +375,74 @@ NOTE: With a “return value or return function” , you can use the value retur
 	(1) Save the data. <br/>
 	(2) Generate The HTML using javascript (we use the data to generate our html). <br/>
 	(3) Making It Interactive (we make the website interactive) :- Put it on the Web Page (Take the htmlput it on the web page) , and we will do that using the “DOM” <br/>
+
 	
+
+➡️ **ADVANCED FUNCTION** <br/>
+	✔️ **Functions Are Value:**  A function is just another type of value. <br/>
+	✔️ **Anonymous Function:**  A function without a name. A function that is not declared with a name. Anynomous functions are fundamental concept in javascript, offering a powerful and flexible way to create and use functions without the need for explicit naming / <br/>
+	Unlike “traditional named functions”, which are defined with a specific identifier. <br/>
+	 “Anonymous functions” on the other hand, are typically created as a function expressions and are used in situations where a function is needed  for a single,  specific purpose or as an argument to another function. <br/>
+
+	✔️ Other “array methods”  apart from “for-each” etc. method: <br/>
+	(1) Filter():-  .filter(),  creates a new array[]  with all elements that pass the test implemented by the provided function.  <br/>
+	Filter kind of work the same way as “forEach” method.
+	Using “filter”, you can sort of filter values .  <br/>
+	
+	(2) Map():-   .map(),  Creates a new array populated with the results of calling a provided function on every element in the calling array. <br/>
+	✔️ Closure:  A “closure” means ; <br/>
+	 if a function has access to a value . <br/>
+	 It will always have access to that value. <br/>
+	 Also a “closure” in js , is the combination of a function  bundled together & with references to its surronding state (the lexical environment). <br/>
+	Therefore:: A “closure” gives a function access  to its “outer space”. In Javascript , closures are created every time a function is created , at function creation function time. <br/>
+
+
+
+➡️ **MODULES IN JAVASCRIPT** <br/>
+	✔️ **Modules:** A better way to organize our code. <br/>
+	Module helps us to avoid “naming comflit”. <br/>
+	Lets say we we create diff. Pages and uses “script.js” to add all , but it not a best way to use it , if not module. <br/>
+
+	✔️ NOTE:	Two (2) Importants things you need to know about “modules”. <br/>
+	(1.) Put all “imports” at the top of the file. <br/>
+	(2.) We need to use “Live Server” for module to work. <br/>
+
+	✔️ Benefits of “Modules” <br/>
+	(1.) Helps us avoid naming conflicts. <br/>
+	(2.) You don’t have to worry about order of our script files (all pages loading). <br/>
+	NOTE:	Modules  =  are  better way to organize our code. <br/>
+	
+
+
+➡️ **EXTERNAL LIBRARIES (IN JAVASCRIPT)** <br/>
+	✔️ **External Library:  Is basically just code that is outside of our Project. <br/>
+	✔️ Why We Use External Links:  <br/>
+	(1.)  Lets us share code: With external librabries , we can use codes that other people wrote. <br/>
+	(2.) Saves time. <br/>
+	(3.) It helps avoid duplicating work. <br/>
+
+	✔️ How To Find External Libraries: <br/>
+	 You can use : <br/>
+	(1.) You can use “Google” by searching like e.g “javascript date library” <br/>
+	
+	(2.) You can also use “ChatGPT” by searching like e.g “javascript date library” <br/>
+	
+	(3.) Find a distribution of the library in either ECMAScript Modules (ESM) or Universal Module Definition (UMD) format on a popular CDN service like jsDelivr or UNPKG. For more information on library compatibility, see the Library Compatibility section.  <br/>
+	
+	(4.) Day.js can be included by way of a CDN provider like cdnjs.com, unpkg and jsDelivr.  <br/>
+
+	✔️ How Can We Use The External Library: <br/>
+	External library usually have a documentation page, that shows how  we use the library, on  browser  or AI tool. <br/>
+
+	e.g  https://day.js.org/docs/en/display/format <br/>
+	https://unpkg.com/dayjs/esm/index.js <br/>
+	https://day.js.org/docs/en/display/format <br/>
+	NOTE:	A better way to load “external libraries” is to use “JavaScript Modules”  instead  of using  the external library with <script> tag. <br/>
+	NOTE:  EcmaScript is just another name for “javascript”. A version that works with javaScript Module. <br/>
+	NOTE:  Note every external library has a “esm version” , some you goona use a <script> tag. <br/>
+
+	✔️ How to use External  Libraries   + JavaScript  Modules. <br/>
+	 To use the both we goona use a special version of library called “ESM version” (EcmaScript Module). <br/>
+	“ESM” stands for EcMaScript Modules. <br/>
+	“EcMaScript” is just another name for “javaScript”. <br/>
+	So the “EsM version” that works with library is just “A version that works with JavaScript Modules”. <br/>
