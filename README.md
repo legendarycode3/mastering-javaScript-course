@@ -446,3 +446,55 @@ NOTE: With a “return value or return function” , you can use the value retur
 	“ESM” stands for EcMaScript Modules. <br/>
 	“EcMaScript” is just another name for “javaScript”. <br/>
 	So the “EsM version” that works with library is just “A version that works with JavaScript Modules”. <br/>
+
+
+
+➡️ **TESTING** <br/>
+	✔️ **The Easiest Way To Test Our Code:**  <br/>
+	(1) Is to just Open the website and try out the code :-  This is called  “manuel Testing” . <br/>
+		
+				Disadvantages of Manuel Testing <br/>
+		(i.) Hard to test every situation. <br/>
+		(ii.) Hard to re-test the code . <br/>
+	
+	(2) Automated Testing :-  Automated testing basically means ,  “using code to test code”.  Instead of manuelly opening the website and clicking around to try our code, we goona tell the computer to do the test for us. <br/>
+	
+	NOTE:   To create an “Automated test”, we just goona test some code to test this function. <br/>
+	First, lets create a folder, to group all of our test code together. <br/>
+
+	✔️ 2 Two Types Of  Test Cases  Generally, we create two type of test casees: <br/>
+		(1) Basic Test Cases:   This test if the code is working.  <br/>
+		(2) Edge cases: Test with values that are tricky. <br/>
+
+	NOTE:   Another thing we do, when naming our test, is to group related test together. A group of related test is called “Test Suite”. <br/>
+	
+	✔️ How To Use A Testing Framework To Write Automated Test:  A “Testing Framework” , is an external library, that helps us write tests easier . <br/>
+	 Some various testing framworks include : <br/>
+	1) Jasmine  -- https://github.com/jasmine/jasmine/releases/tag/v5.1.1  <br/>
+	(2)Jest  (for ReactJS). <br/>
+	(3) MochaJS <br/>
+
+
+	✔️ How To Run Test Using Jasmine: <br/>
+	Testing Framework  =  helps us write tests easier <br/>
+	  
+	This file “SpecRunner.html” , does thesame thing as the “tests.html” file. <br/>
+	NOTE:   In jasmine , “spec” is another name for “test”  spec = test <br/>
+	So “SpecRunner”, just means “TestRunner”. This file runs all the test. <br/>
+	So therefore: A “testing framework” ,  is an external library that helps us write tests easier. <br/>
+
+	✔️ Hooks (Is shortcut we can use in jasmine) :  <br/>
+	Hook: A hook lets us run some code for each test.  <br/>
+	To create a hook , you use beforeEach(); ..  <br/>
+
+	✔️ Hooks In Jasmine  <br/>
+	(1.) beforeEach() = runs code before each test.  <br/>
+	(2.) afterEach()   =   runs code after each test.  <br/>
+	(3.) beforeAll()    =   runs code before all tests.  <br/>
+	(4.) afterAll()     =  runs code after all tests.  <br/>
+	(5.) done()        =   done() function, lets us control when to go to the next step. A feature for waiting for some code to finish.  <br/>
+	
+	NOTE:   Here is the “process” that we do, when we write code: <br/>
+	(1) Make changes to code. <br/>
+	(2) And then we re-run the tests (just to make sure that everything still works). <br/>
+	(3) Save to Git. <br/>
