@@ -309,4 +309,70 @@ NOTE: With a “return value or return function” , you can use the value retur
 
 
 
-➡️ **ARRAYS & LOOPS** <br/>  <br/>
+➡️ **ARRAYS & LOOPS** <br/>  
+	✔️ What is an Array: <br/>
+	(a) An “Array” 
+	- is another type of value or variable in javascript. <br/>
+	- An represents a list of  other values. <br/>
+	(b) An “Array”  <br/>
+	- Is a special variable or type of variable , which can hold more than one(1) value under a single name.	
+	(c) Arrays  =  list of values  <br/>
+	NOTE: An array is an object, but a special type of object . But javascript arrays are best describe as arrays. <br/>
+
+	✔️ Why Use Arrays ? <br/>
+     If  you have a list of items (a list of  Motocycles names, for example), storing th motorcycles in single variables could look like this below: 
+        e.g <br/>
+	let motorcycle1 = "jinchin"; <br/>
+	let motorcycle2 = "Boxer"; <br/>
+	let motorcycle3 =  "Hyju"; <br/>
+
+	✔️ Key Difference Between Array & Object (Where , When To Use It) <br/>
+	Arrays: <br/>
+	(a) “Arrays” are used when we need to collection a list of elements of the same data type or structure. <br/>
+	(b) “Arrays” we use it whenever  we want to “create & store”  a list of multiple items in a single variable. <br/>
+	(c) “Arrays” are specially useful when creating “ordered collections”  where items in the collection can be accessed by their numerical position in the list.  <br/>
+	
+	Objects: <br/>
+	(a) On the other-hand, “Objects” are used when grouping multiple sets of data that belong together using labels, where each property or key has it own value of any type. <br/>  
+	(b) Objects are used to represent a “thing” in your code. That could be a  “Person”, a “car”, a “building”, a “book”, a “character in a game”. <br/>
+		Basically, anything that is made up or can be defined by a set of characteristics. <br/>
+		In objects, these characteristics are called properties that consist of a “key” and “value”. <br/>
+
+	✔️ Array Methods And Properties: <br/>
+    Some  built-in array properties and methods. <br/>
+	(1) Array  length     -  Returns the length (size) of an array. <br/>
+	(2) Array  toString()    -  Converts an array to a comma separated string of values. <br/>
+	(3) Array  at()     - Returns an indexed element from an array. <br/>
+	(4) Array join()    -  Joins all array elements into string. <br/>
+	(5) Array  pop()     -  Remove the last element from an array. <br/>
+	(6) Array push()    -   Adds a new element or value to the end of an array. <br/>
+	(7) Array shift()     -   Removes the first array element/item. <br/>
+	(8) Array unshift()   - Adds a new array element(or new items) at the beginning of an array. <br/>
+	(9) Array delete()    -  Creates undefined holes in the array. <br/>
+	(10) Array  concat()   -   Creates a new  array by merging existing array. <br/>
+	(11) Array copyWithin()  -  Copies array elements to another position in the array. <br/>
+	(12) Array flat()     -     Creates a new array from sub-array elements. <br/>
+	(13) Array slice()   -     Slices out a part of an array, Removes from an array. <br/>
+	(14) Array  toSpliced()  -  Adds new items to an array in a new array. <br/>
+	(15) Array map() -   Creates a new array populated with the results of calling a provided function on every element  in the calling array. <br/>
+
+	✔️ Loops - What Is A Loop: <br/>
+	Lets us run some code over and over. Loops offer a quick and eazy way to do stuffs repeatly. <br/>
+
+	✔️ Loops and Iterations <br/>
+	(a) While statement: While this condition is true it will keep running the code, (over and  over again) as soon as the condition is false it will stop the loop. <br/>	
+	(b) for loop statement:   Loops through a block of code a number of time. <br/>
+	NOTE:  
+	 	ForLoop use it when we are doing a “standard loop”.   <br/>
+		 While Loop we use it whenits a “non-standard loop”, meaning to be non-standard loop, it will not have a loop variable that will increase everytime & also don’t not have icreement step..   <br/>
+	c)do…while statement.  <br/>
+	d)Break statement.  <br/>
+	e)continue statement.  <br/>
+	f)For…in statement.  <br/>
+	g)for...of statement.  <br/>
+
+	✔️ When Creating Website In JavaScript We Usually Follow A Three (3) Steps Process: <br/>
+	(1) Save the data. <br/>
+	(2) Generate The HTML using javascript (we use the data to generate our html). <br/>
+	(3) Making It Interactive (we make the website interactive) :- Put it on the Web Page (Take the htmlput it on the web page) , and we will do that using the “DOM” <br/>
+	
