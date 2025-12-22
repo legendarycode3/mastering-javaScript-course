@@ -222,6 +222,8 @@ true, false. <br/>
 		Console.log( !false);    => results equals “true” <br/>
 
 	✔️ ShortCuts For “if-Statements” <br/>
+	i). Ternary  Operator ? : </br>
+
 
 
 ➡️ **FUNCTIONS** <br/>
