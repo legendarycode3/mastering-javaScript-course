@@ -194,6 +194,7 @@ true, false. <br/>
 
 	✔️ Conditional Operators: </br>
 		Conditional operators, in javascript , the primary conditional operator is  the “ternary operator ( ? : )”  It is a  shorthand way of writing “if … else statement”. 		Allowing you to evaluate condition and return one of two expressions based on  whetherthe condition is true or false. </br>
+		It is called “ternary operator” becus , it is the only operator in javascript  that takes three(3) operands : “a condition”, “an expression to execute if the 				condition is truthy”, and  “an expression to execute if the conditionis falsy”. </br>
 
 	✔️ Logical Operators: <br/>
 		Logical operators lets us combine boolean values. <br/>
