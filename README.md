@@ -197,6 +197,15 @@ true, false. <br/>
 		It is called “ternary operator” becus , it is the only operator in javascript  that takes three(3) operands : “a condition”, “an expression to execute if the 				condition is truthy”, and  “an expression to execute if the conditionis falsy”. </br>
 		General Syntax is as follows below: </br>
 		Condition ? expressionIfTrue : expressionIfFalse; </br>
+		e.g 1: </br>
+		let age = 20; </br>
+			let message =  (age >= 18) ?  "You are an adult." : "You are a minor."; </br>
+			console.log(message); // Output: You are an adult. </br>
+		
+		e.g 2: </br>
+		let age = 20; </br>
+			let message =  (age <= 18) ?  "You are an adult." : "You are UnderAge."; </br>
+			console.log(message); // Output: You are UnderAge. </br>
 
 	✔️ Logical Operators: <br/>
 		Logical operators lets us combine boolean values. <br/>
