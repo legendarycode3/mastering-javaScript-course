@@ -228,6 +228,12 @@ true, false. <br/>
 	Ternary Operator ‘?:’  :-  It works this way, </br>
 	if value1 is “true”  ? then the result is value2 :Else the result is  value3 “false”  …….. value1 ? value2 : value3  </br>
 	 SYNTAX: </br>
+	 // Ternary Operator Example </br>
+		let result2 = true ? 'truthy' : 'falsy'
+		e.g 1:
+		let age = 20;
+			let message =  (age >= 18) ?  "You are an adult." : "You are a minor.";
+			console.log(message); // Output: You are an adult.
 
 
 
