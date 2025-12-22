@@ -223,6 +223,7 @@ true, false. <br/>
 
 	✔️ ShortCuts For “if-Statements” <br/>
 	i). Ternary  Operator ? : </br>
+	ii). Guard Operator  && </br>
 
 
 
