@@ -237,6 +237,13 @@ true, false. <br/>
 			
 		e.g 2:  </br>
 		// SHortCut for thesame if-statement like this </br>
+		let result2; </br>
+		if(condition){ </br>
+		    result2 = 'truthy';
+		}
+		else {
+		    result2 = 'falsy';
+		}
 
 
 
