@@ -262,6 +262,8 @@ true, false. <br/>
 	
 	Default Operator ||  :- Similar to Guard operator but uses or </br>
 	E.g // Default Operatoer Example </br>
+	Const currency = undefined ||  ‘usd’; </br>
+	Console.log(currency); </br>
 
 
 
