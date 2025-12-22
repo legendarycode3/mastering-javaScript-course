@@ -239,11 +239,13 @@ true, false. <br/>
 		// SHortCut for thesame if-statement like this </br>
 		let result2; </br>
 		if(condition){ </br>
-		    result2 = 'truthy';
-		}
-		else {
-		    result2 = 'falsy';
-		}
+		    result2 = 'truthy'; </br>
+		} </br>
+		else { </br>
+		    result2 = 'falsy'; </br>
+		} </br>
+		
+	✔️ Guard Operator ‘&&’ :- </br>
 
 
 
