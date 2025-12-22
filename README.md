@@ -234,6 +234,9 @@ true, false. <br/>
 		let age = 20; </br>
 			let message =  (age >= 18) ?  "You are an adult." : "You are a minor.";  </br>
 			console.log(message); // Output: You are an adult. </br>
+			
+		e.g 2:  </br>
+		// SHortCut for thesame if-statement like this </br>
 
 
 
