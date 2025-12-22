@@ -257,6 +257,8 @@ true, false. <br/>
 	} </br>
 	const a = 3; </br>
 	const b = -2; </br>
+	console.log(a > 0 && b > 0); </br>
+	// Expected output: false (becus but conditions are not true) </br>
 
 
 
