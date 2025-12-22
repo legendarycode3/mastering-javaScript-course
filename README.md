@@ -259,6 +259,8 @@ true, false. <br/>
 	const b = -2; </br>
 	console.log(a > 0 && b > 0); </br>
 	// Expected output: false (becus but conditions are not true) </br>
+	
+	Default Operator ||  :- Similar to Guard operator but uses or </br>
 
 
 
