@@ -654,10 +654,10 @@ NOTE: With a “return value or return function” , you can use the value retur
 
 
 	✔️ Some Ways To Make “HTTP Request” Using Javascript:  </br>
-	1.)  Fetch:  (Javascript Built-in API), is  modern based API built into most 
+	(1.)  Fetch:  (Javascript Built-in API), is  modern based API built into most 
 	browsers. </br>
-	2.) It offers a more cleaner, and more flexible way to handle HTTP requests compared older methods </br>
-	3.) “fetch” http request, is promised based, Fetch leverages javascript promises, simplifying asynchronous operations and making codes, more cleaner & more readable  compare to older callback based method like “XMLHttpRequest”. </br>
+		 i) It offers a more cleaner, and more flexible way to handle HTTP requests compared older methods </br>
+		 ii) “fetch” http request, is promised based, Fetch leverages javascript promises, simplifying asynchronous operations and making codes, more cleaner & more readable  compare to older callback based method like “XMLHttpRequest”. </br>
 	E.g 1 using fetch API for HTTP request 	</br>
 	
 	function loadProductsFetch() { </br>
@@ -701,6 +701,10 @@ NOTE: With a “return value or return function” , you can use the value retur
   .catch(error => { </br>
     console.error('Error:', error); </br>
   }); </br>
+
+ (2) XMLHttpRequest (XHR):  </br>
+ XMLHttpRequest (is an older callback-based API), that provides the ability to make HTTP requests. It is more verbose and uses event listeners for handling responses and errors. </br>
+			
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
