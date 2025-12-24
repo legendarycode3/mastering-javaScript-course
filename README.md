@@ -818,7 +818,7 @@ getData() </br>
 
 
 ✔️ Error Handling:  “Error handling” in javascript is crucial for creating robust and stable applications. </br>
-
+“Error handling” allows you to manage unexpected issues that occur during execution of your code. </br>
 
 
 
