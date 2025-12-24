@@ -785,8 +785,32 @@ getData((res) => { </br>
 	ii. They offer a more structured way to handle asynchronous operation compared to callbacks, allowing for chaining of asynchronous tasks and clearer error handling.</br>
 	iii. A “promise” can be in one of the 3 states:  pending, fulfilled (resolved), or rejected. </br>
 
+E.g  of Promisies function for asynchonous code </br>
+/** FOR "PROMISES FUNCTION" MECHANISM WHEN WORKING ON ASYNCHRONOUS CODE  */ </br>
+function  getData() { </br>
+    return new Promise((resolve, reject) => { </br>
+        setTimeout(() => {  </br>
+            const achieved = false;  // Execute if it is Achieved 	 or notAchieved Getting Data.
+            if(achieved){ </br>
+                resolve("Success Data Gotten with Promises"); </br>
+            } </br>
+            else { </br>
+                reject("Error Getting Data"); </br>
+            } </br>
+        }, 3000); </br>
+    });
+}
+getData() </br>
+    .then((data) => { </br>
+        console.log(data); //Logs "Gets Data"
+    }) </br>
+    .catch((error) => {
+        console.error(error); </br>
+    }); </br>
 
-	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
+
+
+kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
 
 
