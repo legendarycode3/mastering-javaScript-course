@@ -855,6 +855,21 @@ export function loadProductsFetch() { </br>
      console.log('failed error. Please try again'); </br>
   }); </br>
 
+  E.g 2  handling error in promises (using “catch”) </br>
+somePromiseFunction() </br>
+  .then(result1 => { </br>
+    // Do something with result1 </br>
+    return anotherPromiseFunction(result1); </br>
+  })
+  .then(result2 => { </br>
+    // Do something with result2 </br>
+    return yetAnotherPromiseFunction(result2); </br>
+  }) </br>
+  .catch(error => { </br>
+    // Handle any error that occurred in the promise chain </br>
+    console.error("An error occurred:", error); </br>
+  }); </br>
+
 
 
 
