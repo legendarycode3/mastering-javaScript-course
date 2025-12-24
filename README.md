@@ -817,6 +817,10 @@ getData() </br>
 	v.) “await” = Lets us wait for promise to finish before going to the next line. </br>
 
 
+✔️ Error Handling:  “Error handling” in javascript is crucial for creating robust and stable applications. </br>
+
+
+
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
