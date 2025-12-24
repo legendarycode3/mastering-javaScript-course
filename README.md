@@ -828,6 +828,34 @@ NOTE: When we’re sending HTTP requests, we could get unexpected errors. </br>
 
 - Handling Error in “promises”: </br>
 E.g-1  handling error in promises (using  “catch”) </br>
+export function loadProductsFetch() { </br>
+  const promise = fetch( </br>
+    // fetch the code from here
+  ).then((response) => { </br>
+    // console.log(response); </br>
+    //"response.json() IS ASYNCHRONOUS, IT RETURNS A "promise" </br>
+    return response.json(); </br>
+
+    }).then((productsData) => { </br>
+
+    // console.log(productsData); </br>
+    products = productsData.map((productDetails) => { </br>
+    if (productDetails.type === 'clothing'){ </br>
+      return new Clothing(productDetails); </br>
+    } </br>
+    if(productDetails.type === 'appliances'){ </br>
+      return new Appliances(productDetails); </br>
+    }
+        return new Product(productDetails);  </br>
+    });
+    console.log('load products'); </br>
+
+    //fun(); </br>
+  }).catch(() => { </br>
+     console.log('failed error. Please try again'); </br>
+  }); </br>
+
+
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
