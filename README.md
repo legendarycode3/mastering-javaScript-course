@@ -704,6 +704,39 @@ NOTE: With a “return value or return function” , you can use the value retur
 
  (2) XMLHttpRequest (XHR):  </br>
  XMLHttpRequest (is an older callback-based API), that provides the ability to make HTTP requests. It is more verbose and uses event listeners for handling responses and errors. </br>
+ E.g 1:   using XMLHttpRequest </br>
+export function loadProducts(fun) { </br>
+  // CREATING A REQUEST (USING "XML") </br>
+  const xhr = new XMLHttpRequest(); </br>
+
+  // IN ORDER TO WAIT FOR A RESPONSE </br>
+  xhr.addEventListener('load', () => { </br>
+    //console.log(xhr.response); </br>
+    
+    /** </br>
+     * CONVERTING THESE "JSON RESPONSE" BACK TO "JAVASCRIPT ARRAY OR OBJECT" USING JSON.parse  --  
+     * AND ALSO CONVERTING AGAIN THE "PRODUCTS OBJECTS" INTO A CLASS USING (.map)
+    */ </br>
+    // products = JSON.parse(xhr.response); </br>
+    products = JSON.parse(xhr.response).map((productDetails) => { </br>
+      if (productDetails.type === 'clothing'){ </br>
+        return new Clothing(productDetails); </br>
+      } </br>
+      if(productDetails.type === 'appliances'){ </br>
+        return new Appliances(productDetails); </br>
+      } </br>
+        return new Product(productDetails); </br>
+    }); </br>
+    //console.log('load products'); </br>
+
+    //CALLBACK FUNCTION </br>
+    fun(); </br>
+
+  }); </br>
+  //   //const url  = "https://supersimplebackend.dev/products"; </br>
+  xhr.open("GET", 'https://supersimplebackend.dev/products');
+  xhr.send();
+} </br>
 			
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
