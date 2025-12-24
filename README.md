@@ -753,6 +753,8 @@ xhr.onerror = function() { </br>
   console.error('Request failed'); </br>
 }; </br>
 xhr.send(); </br>
+
+✔️ Key Components Of  HTTP Request:
 			
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
