@@ -618,6 +618,7 @@ NOTE: With a “return value or return function” , you can use the value retur
 	d) If it “starts with 5” , it means , “It was our backend problem” (server or backend error)  E.g backend crashing. </br>
 
 	A status code that starts with 2 (200, 201, 204)   =  “succeeded” </br>
+	a) If it a status code of (200)  means =  “Successful”, The client request was a success, received , understood, & processed by the server. </br>
 	
 
 	✔️ CALL BACK:   A function to run in the future. “fun” parameter is known as a callBack. <br/>
