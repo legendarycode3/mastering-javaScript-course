@@ -675,6 +675,18 @@ NOTE: With a “return value or return function” , you can use the value retur
     if (productDetails.type === 'clothing'){ </br>
       return new Clothing(productDetails); </br>
     } </br>
+	
+	if(productDetails.type === 'appliances'){ </br>
+      return new Appliances(productDetails); </br>
+    }
+        return new Product(productDetails); </br>
+    }); </br>
+    console.log('load products'); </br>
+    //fun(); </br>
+  	}); </br>
+	  //RETURNING A "promise" OUT OF THE FUNCTION. AND THEN WE KEEP ATTACHING MORE STEPS TO THE PROMISE </br>
+	  return promise; </br>
+	} </br>
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
