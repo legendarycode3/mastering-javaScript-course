@@ -810,6 +810,7 @@ getData() </br>
 
 
 3.) Async / Await:e A better way to handle “asynchronous code” . </br>
+	i.) “Async await”:  s a shortcut for promises( it remove all the extra codes when using promise). 
 
 
 
