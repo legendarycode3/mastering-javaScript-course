@@ -619,6 +619,8 @@ NOTE: With a “return value or return function” , you can use the value retur
 
 	A status code that starts with 2 (200, 201, 204)   =  “succeeded” </br>
 	a) If it a status code of (200)  means =  “Successful”, The client request was a success, received , understood, & processed by the server. </br>
+	b) If it a Status Code of (201) means = Created , the code indicates that the request has been succeeded & as a result , one or more new resources have been created on the server. </br>
+	c) If it a Status Code of (204) means = the request was successful, but the server is not returning any content in the response body. </br>
 	
 
 	✔️ CALL BACK:   A function to run in the future. “fun” parameter is known as a callBack. <br/>
