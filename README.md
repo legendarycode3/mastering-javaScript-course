@@ -768,7 +768,9 @@ Contains data sent to the server, primarily used with methods like POST, PUT, 
 The primary methods are :
 1) CallBacks: </br>
 	i. A callback function is passed as an argument to another function and  executed once the asynchronous operation completes. </br>
-	
+	ii. Previously original method for handling asynchronicity in javascript, but it can lead to “callback hell”(deeply nested callbacks) in complex senenario. </br>
+
+
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
