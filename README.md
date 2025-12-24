@@ -826,6 +826,8 @@ NOTE: When we’re sending HTTP requests, we could get unexpected errors. </br>
 		 console.log('Unexpected error. Please try again'); </br>
 		}); </br>
 
+- Handling Error in “promises”: </br>
+
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
