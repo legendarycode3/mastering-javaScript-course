@@ -737,6 +737,22 @@ export function loadProducts(fun) { </br>
   xhr.open("GET", 'https://supersimplebackend.dev/products');
   xhr.send();
 } </br>
+
+E.g 2:  </br>
+using XMLHttpRequest </br>
+const xhr = new XMLHttpRequest(); </br>
+xhr.open('GET', 'https://api.example.com/data'); </br>
+xhr.onload = function() { </br>
+  if (xhr.status === 200) { </br>
+    console.log(xhr.responseText); </br>
+  } else { </br>
+    console.error('Error:', xhr.statusText); </br>
+  } </br>
+};
+xhr.onerror = function() { </br>
+  console.error('Request failed'); </br>
+}; </br>
+xhr.send(); </br>
 			
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
