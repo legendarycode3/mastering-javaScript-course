@@ -759,6 +759,9 @@ xhr.send(); </br>
 Specifies the action to be performed (e.g., GET for retrieving data, POST for sending data, PUT for updating, DELETE for removing). </br>
 2.) URL: </br>
 The address of the resource on the server to which the request is sent. </br>
+3.) Headers: </br>
+Provide additional information about the request, such as content type, authentication credentials, or user agent. </br>
+
 
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
