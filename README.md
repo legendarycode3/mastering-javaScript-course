@@ -654,7 +654,8 @@ NOTE: With a “return value or return function” , you can use the value retur
 
 
 	✔️ Some Ways To Make “HTTP Request” Using Javascript:  </br>
-
+	1)  Fetch:  (Javascript Built-in API), is  modern based API built into most 
+	browsers. </br>
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
