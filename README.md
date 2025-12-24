@@ -756,6 +756,7 @@ xhr.send(); </br>
 
 ✔️ Key Components Of  HTTP Request: </br>
 1.) HTTP Method: </br>
+Specifies the action to be performed (e.g., GET for retrieving data, POST for sending data, PUT for updating, DELETE for removing). </br>
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
