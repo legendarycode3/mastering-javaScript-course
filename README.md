@@ -928,6 +928,11 @@ console.log('load products'); </br>
  console.log('failed error while using promise for asynconose code. Please try again'); </br>
 }); </br>
 
+  //RETURNING A "promise" OUT OF THE FUNCTION. AND THEN WE KEEP ATTACHING MORE STEPS TO THE PROMISE </br>
+  return promise; </br>
+} </br>
+loadProductsFetch(); </br>
+
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
