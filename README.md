@@ -942,6 +942,7 @@ ii.) Also “throw” can manually throw error when using “async / await” in
 iii.) We can also create error, when using  “async / await” when we create a new Promise, it gives us 2nd parameter , we can add reject”.  reject() is a function, and it lets us create error in the future.. </br>
 When it is a Asyncrhonous code. </br>
 
+✔️ The primary mechanisms for error handling In javascript are: </br>
 
 
 
