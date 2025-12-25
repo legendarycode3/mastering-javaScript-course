@@ -933,8 +933,9 @@ console.log('load products'); </br>
 } </br>
 loadProductsFetch(); </br>
 NOTE: One thing about “try / catch”, is that we don’ have to use it only with “async await” on a “asynconous code”.  </br>
+Rather we can actually also use it “try / catch” with “synchronous code(or normal code)”.     So therefore , we can use “try / catch” to catch errors in normal code as well. </br>
 
-
+NOTE: We can Create error several ways, some include:
 
 
 
