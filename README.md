@@ -945,7 +945,7 @@ When it is a Asyncrhonous code. </br>
 ✔️ The primary mechanisms for error handling In javascript are: </br>
 1) try...catch Statement: </br>
 2) Throw Keyword: </br>
-
+3) Error Object Properties: </br>
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
