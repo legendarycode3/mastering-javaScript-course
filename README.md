@@ -936,8 +936,8 @@ NOTE: One thing about “try / catch”, is that we don’ have to use it only w
 Rather we can actually also use it “try / catch” with “synchronous code(or normal code)”.     So therefore , we can use “try / catch” to catch errors in normal code as well. </br>
  
 NOTE: We can Create error several ways, some include: </br>
-i.“throw” will manually create an error (most often when we are using 	“try / catch” error handler) </br>
-
+i.) “throw” will manually create an error (most often when we are using “try / catch” error handler) </br>
+when it a synchronous code most often.  </br>
 
 
 
