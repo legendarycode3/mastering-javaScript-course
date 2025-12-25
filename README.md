@@ -954,7 +954,7 @@ ii.) How do we know which product we can track , we can basically use a feature 
 It lets use save different datain each URL. </br>
 
 ✔️ Differences Bwtween “ JSON.parse()” and  “JSON.stringify()” :   The key differences between JSON.parse() & JSON.stringify() , are as follow below: </br>
-
+1. JSON.parse() :
 
 
 
