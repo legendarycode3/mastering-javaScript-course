@@ -955,12 +955,12 @@ It lets use save different datain each URL. </br>
 
 ✔️ Differences Bwtween “ JSON.parse()” and  “JSON.stringify()” :   The key differences between JSON.parse() & JSON.stringify() , are as follow below: </br>
 1. JSON.parse() :
-2. Purpose: Converts a “JSON formatted string” into a “javascript object”.
-3. Input: A valid JSON string.
-4. Output: A regular “javascript object” or “array”.
-5. Common UseCases : </br>
-5i.) Receiving data from a web server or API  call, where  the data  is typically transmitted as a JSON string. </br>
-5ii.) Retrieving data from localStorage or sessionStorage, as these browser storage  mechanisms only store data </br>
+- Purpose: Converts a “JSON formatted string” into a “javascript object”.
+- Input: A valid JSON string.
+- Output: A regular “javascript object” or “array”.
+- Common UseCases : </br>
+1i.) Receiving data from a web server or API  call, where  the data  is typically transmitted as a JSON string. </br>
+1ii.) Retrieving data from localStorage or sessionStorage, as these browser storage  mechanisms only store data </br>
 
 E.g for a JSON.parse() usage (below) </br>
 const jsonString = 
@@ -968,6 +968,11 @@ const jsonString =
 const javascriptObject = JSON.parse(jsonString); </br>
 console.log(javascriptObject.age); </br>
 // Output: 23 </br>
+
+2. JSON.stringify() : </br>
+
+
+
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
