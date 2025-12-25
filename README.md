@@ -974,6 +974,8 @@ console.log(javascriptObject.age); </br>
 - Inputs: A “JavaScript object” or “array”. </br>
 - Outputs: A “JSON string” representation  of the input. </br>
 - Common UseCases : </br>
+2i.) Sending data to a web server or API, where  the server expects datain JSON string format. </br>
+
 
 
 
