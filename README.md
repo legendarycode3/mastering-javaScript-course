@@ -939,6 +939,8 @@ NOTE: We can Create error several ways, some include: </br>
 i.) “throw” will manually create an error (most often when we are using “try / catch” error handler) </br>
 when it a synchronous code most often.  </br>
 ii.) Also “throw” can manually throw error when using “async / await” inside promise. </br>
+iii.) We can also create error, when using  “async / await” when we create a new Promise, it gives us 2nd parameter , we can add reject”.  reject() is a function, and it lets us create error in the future.. </br>
+
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
