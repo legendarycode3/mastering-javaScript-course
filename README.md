@@ -938,7 +938,7 @@ Rather we can actually also use it “try / catch” with “synchronous code(or
 NOTE: We can Create error several ways, some include: </br>
 i.) “throw” will manually create an error (most often when we are using “try / catch” error handler) </br>
 when it a synchronous code most often.  </br>
-
+ii.) Also “throw” can manually throw error when using “async / await” inside promise. </br>
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
