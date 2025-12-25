@@ -975,7 +975,7 @@ console.log(javascriptObject.age); </br>
 - Outputs: A “JSON string” representation  of the input. </br>
 - Common UseCases : </br>
 2i.) Sending data to a web server or API, where  the server expects datain JSON string format. </br>
-
+2ii.) Storing Javascript objects in localStorage or SessionStorage, as they require string values.  </br>
 
 
 
