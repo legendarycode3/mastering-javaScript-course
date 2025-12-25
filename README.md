@@ -872,7 +872,17 @@ somePromiseFunction() </br>
 
 - Handling Error in “async await”: </br>
 E.g 1  handling error in async await (using “try” & “catch”) </br>
+async function fetchData() {  </br>
+  try {  </br>
+    const data1 = await someAsyncFunction();  </br>
+    const data2 = await anotherAsyncFunction(data1); </br>
+    console.log("Successfully fetched data:", data2); </br>
+  } catch (error) { </br>
+    console.error("Error fetching data:", error); </br>
+  }  </br>
+} </br>
 
+fetchData(); </br>
 
 
 
