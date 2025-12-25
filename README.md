@@ -932,6 +932,12 @@ console.log('load products'); </br>
   return promise; </br>
 } </br>
 loadProductsFetch(); </br>
+NOTE: One thing about “try / catch”, is that we don’ have to use it only with “async await” on a “asynconous code”.  </br>
+
+
+
+
+
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
