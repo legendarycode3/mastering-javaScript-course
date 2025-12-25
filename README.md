@@ -900,6 +900,25 @@ async function fetchData() { </br>
 fetchData(); </br>
 
 E.g 3  handling error in async await(using “try” & “catch”) </br>
+export function loadProductsFetch() { </br>
+const promise = fetch( </br>
+'https://supersimplebackend.dev/products' </br>
+).then((response) => { </br> 
+// console.log(response); </br>
+//"response.json() IS ASYNCHRONOUS, IT RETURNS A "promise" </br>
+return response.json(); </br>
+
+}).then((productsData) => { </br>
+
+// console.log(productsData); </br>
+products = productsData.map((productDetails) => {  </br>
+if (productDetails.type === 'clothing'){  </br>
+  return new Clothing(productDetails);  </br>
+}  </br>
+if(productDetails.type === 'appliances'){  </br>
+  return new Appliances(productDetails);  </br>
+} </br>
+	return new Product(productDetails); </br>
 
 
 
