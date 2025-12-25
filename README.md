@@ -948,10 +948,14 @@ When it is a Asyncrhonous code. </br>
 3) Error Object Properties: </br>
 
 NOTE: </br>
-i.“window.location”  Is a special object provided by javascript, used to control the URL  at the top of the Browser. </br>
-ii. How do we know which product we can track , we can basically use a feature called “URL parameter”.  </br>
+i.) “window.location”  Is a special object provided by javascript, used to control the URL  at the top of the Browser. </br>
+ii.) How do we know which product we can track , we can basically use a feature called “URL parameter”.  </br>
 “URL Parameters” lets us save data directly in the URL, “?” means, we are adding a url paameter to the main url. </br>
 It lets use save different datain each URL. </br>
+
+✔️ Differences Bwtween “ JSON.parse()” and  “JSON.stringify()” :   The key differences between JSON.parse() & JSON.stringify() , are as follow below: </br>
+
+
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
