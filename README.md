@@ -871,6 +871,9 @@ somePromiseFunction() </br>
   }); </br>
 
 - Handling Error in “async await”: </br>
+E.g 1  handling error in async await (using “try” & “catch”) </br>
+
+
 
 
 
