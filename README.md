@@ -949,7 +949,7 @@ When it is a Asyncrhonous code. </br>
 
 NOTE: </br>
 i.“window.location”  Is a special object provided by javascript, used to control the URL  at the top of the Browser. </br>
-
+ii. How do we know which product we can track , we can basically use a feature called “URL parameter”.  </br>
 
 
 
