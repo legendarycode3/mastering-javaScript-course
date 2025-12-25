@@ -884,20 +884,20 @@ async function fetchData() {  </br>
 fetchData(); </br>
 
 E.g 2  handling error in async await(using “try” & “catch”) </br>
-async function fetchData() {
-  try {
-    const response = await fetch('https://api.example.com/data');
+async function fetchData() { </br>
+  try { </br>
+    const response = await fetch('https://api.example.com/data'); </br>
     if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
+      throw new Error(`HTTP error! status: ${response.status}`);  </br>
     }
-    const data = await response.json();
-    console.log('Data:', data);
-  } catch (error) {
-    console.error('Error fetching data:', error);
-    // You can also perform other actions here, like displaying an error message to the user.
-  }
-}
-fetchData(); 
+    const data = await response.json(); </br>
+    console.log('Data:', data); </br>
+  } catch (error) { </br> 
+    console.error('Error fetching data:', error); </br>
+    // You can also perform other actions here, like displaying an error message to the user. </br>
+  } </br>
+} </br>
+fetchData(); </br>
 
 
 
