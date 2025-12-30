@@ -397,6 +397,13 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	Object initializers are also called “object literals”. “”Object initializer” is one of the primary ways to create an object in JavaScript. </br>
 	An object initializer is an expression defined by a comma-separated list of zero or more property-value pairs enclosed in curly braces ({}). This method is a quick and concise way to create a single object with predefined 		       properties and values. </br>
 
+	EG 1: </br>
+	const champion = { </br>
+	  make: "LegendaryCode", </br>
+	  model: "Blue coded", </br>
+	  year: 2001 </br>
+	}; </br>
+
 	EG 2: </br>
 	const obj = { </br>
 	    property1: value1,  //property name may be identifier </br>
