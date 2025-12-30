@@ -416,32 +416,32 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
 	EG 3: 
 	The following  statement creates an object and assigns it to the variable “x” if  and only if the expression condition is true else to “y” </br>
-	let x ;
-	let y;
-	if( 8 > 3) {
-	    x = {
-	        greetings: "greater , correct 8 is bigger"
-	    };
-	    console.log(x);
-	}
-	else {
-    y = {
-        greetings: "Lesser , wrong 8 is lesser than "
-    };
-   		 console.log(y);
-	}
+	let x ; </br> 
+	let y; </br>
+	if( 8 > 3) { </br>
+	    x = { </br>
+	        greetings: "greater , correct 8 is bigger" </br>
+	    }; </br>
+	    console.log(x); </br>
+	 } </br>
+	else { </br>
+    y = { </br>
+        greetings: "Lesser , wrong 8 is lesser than " </br>
+    }; </br>
+   		 console.log(y); </br>
+	} </br>
 
-	EG 4:
-	const myBenz = {
-	    color: "Red",
-	    wheels: 4,
-	    doors: 2,
-	    engine: {
-	        cylinders: 4,
-	        size: 3
-	    }
-	};
-	console.log(`The total amount of DOORS on the car is: ${myBenz.doors} & the Engine cyclinder is: ${myBenz.engine.cylinders}`);
+	EG 4: </br>
+	const myBenz = { </br>
+	    color: "Red", </br>
+ 	    wheels: 4, </br>
+	    doors: 2, </br>
+	    engine: { </br>
+	        cylinders: 4, </br>
+	        size: 3 </br>
+	    } </br>
+	}; </br>
+	console.log(`The total amount of DOORS on the car is: ${myBenz.doors} & the Engine cyclinder is: ${myBenz.engine.cylinders}`); </br>
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
