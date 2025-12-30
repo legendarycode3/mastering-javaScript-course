@@ -312,6 +312,7 @@ function congtratulation(name) { </br>
 } </br>
 let celebrate = congtratulation("LegendaryCode"); </br>
 console.log(celebrate); </br>
+	//Display answer: Hello, Congratulation LegendaryCode </br>
 
 3) Function that returns a numvber with paramenter insides </br>
 function addNumbers(numA, numB) { </br>
