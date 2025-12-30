@@ -415,6 +415,14 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	The property name  can also be an expresion. </br>
 
 	The following  statement creates an object and assigns it to the variable “x” if  and only if the expression condition is true else to “y” </br>
+	let x ;
+	let y;
+	if( 8 > 3) {
+	    x = {
+	        greetings: "greater , correct 8 is bigger"
+	    };
+	    console.log(x);
+	}
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
