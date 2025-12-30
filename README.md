@@ -343,6 +343,10 @@ function calculateRectangleArea(width, height) {
 	const area = width * height;
 	return area; // Returns the calculated area
 }
+const rect1Width = 5;
+const rect1Height = 10; 
+const area1 = calculateRectangleArea(rect1Width, rect1Height); // The returned value (50) is assigned to area1
+console.log("Area of rectangle 1:", area1); // Output: Area of rectangle 1: 50
 
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
