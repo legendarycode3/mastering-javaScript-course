@@ -305,6 +305,14 @@ Eg. Examples illustrating the use of return statement. </br>
 
 	//Display answer: 5
 
+2) Function that returns a String with parameter inside the function </br>
+function congtratulation(name) { </br>
+  //  return `Hello, Congratulations ${name}`; </br>
+  return "Hello, Congratulation " + name  ; </br>
+} </br>
+let celebrate = congtratulation("LegendaryCode"); </br>
+console.log(celebrate); </br>
+
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
 		While a “return statement” , gets a value out of a function  <br/>
