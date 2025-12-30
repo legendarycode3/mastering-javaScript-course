@@ -357,6 +357,8 @@ console.log("Area of rectangle 2:", area2); // Output: Area of rectangle 2: 21 <
 const totalArea = area1 + area2; </br>
 console.log("Total area of both rectangles:", totalArea); // Output: Total area of both rectangles: 71 </br>
 
+## NOTE: When you use a return statement it ends the function immediately.
+
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
 		While a “return statement” , gets a value out of a function  <br/>
