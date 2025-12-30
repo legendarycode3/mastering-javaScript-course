@@ -339,23 +339,23 @@ console.log(checkingNumber2); </br>
 console.log(checkingNumber3); </br>
 
 5) Function that calculates Rectangle Area </br>
-function calculateRectangleArea(width, height) {
-	const area = width * height;
-	return area; // Returns the calculated area
+function calculateRectangleArea(width, height) { </br>
+	const area = width * height; </br>
+	return area; // Returns the calculated area </br>
 }
-const rect1Width = 5;
-const rect1Height = 10; 
-const area1 = calculateRectangleArea(rect1Width, rect1Height); // The returned value (50) is assigned to area1
-console.log("Area of rectangle 1:", area1); // Output: Area of rectangle 1: 50
+const rect1Width = 5; </br>
+const rect1Height = 10; </br>
+const area1 = calculateRectangleArea(rect1Width, rect1Height); // The returned value (50) is assigned to area1 </br>
+console.log("Area of rectangle 1:", area1); // Output: Area of rectangle 1: 50 </br>
 
-const rect2Width = 7;
-const rect2Height = 3;
-const area2 = calculateRectangleArea(rect2Width, rect2Height); // The returned value (21) is assigned to area2
-console.log("Area of rectangle 2:", area2); // Output: Area of rectangle 2: 21
+const rect2Width = 7; </br>
+const rect2Height = 3; </br>
+const area2 = calculateRectangleArea(rect2Width, rect2Height); // The returned value (21) is assigned to area2 </br>
+console.log("Area of rectangle 2:", area2); // Output: Area of rectangle 2: 21 </br>
 
-// Using the returned value in another operation
-const totalArea = area1 + area2;
-console.log("Total area of both rectangles:", totalArea); // Output: Total area of both rectangles: 71
+// Using the returned value in another operation </br>
+const totalArea = area1 + area2; </br>
+console.log("Total area of both rectangles:", totalArea); // Output: Total area of both rectangles: 71 </br>
 
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
