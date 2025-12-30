@@ -441,6 +441,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	        size: 3
 	    }
 	};
+	console.log(`The total amount of DOORS on the car is: ${myBenz.doors} & the Engine cyclinder is: ${myBenz.engine.cylinders}`);
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
