@@ -368,6 +368,10 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 		function calculateTax(cost){ </br>
             console.log(cost * 0.1); </br>
         } </br>
+		// passing a value into the function parameter or argument </br>
+        calculateTax(200); </br>
+        calculateTax(500); </br>
+		
 
 	✔️ Rules for Parameter Names: <br/>
 		(1) Can’t use special words.   
