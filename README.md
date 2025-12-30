@@ -414,6 +414,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	NOTE: Each property name on the example above is an identifier, (either a name , a number, or a string literal) , and each valueN is an expression whoose value is assigned to the property name. </br>
 	The property name  can also be an expresion. </br>
 
+	EG 3: 
 	The following  statement creates an object and assigns it to the variable “x” if  and only if the expression condition is true else to “y” </br>
 	let x ;
 	let y;
@@ -429,6 +430,17 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
     };
    		 console.log(y);
 	}
+
+	EG 4:
+	const myBenz = {
+	    color: "Red",
+	    wheels: 4,
+	    doors: 2,
+	    engine: {
+	        cylinders: 4,
+	        size: 3
+	    }
+	};
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
