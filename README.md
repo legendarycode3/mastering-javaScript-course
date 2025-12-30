@@ -372,6 +372,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
         calculateTax(200); </br>
         calculateTax(500); </br>
 		
+		**NOTE: The function "calculateTax" only exist inside of the function scope. A function can have more than 1 parameters** </br>
+		
 
 	✔️ Rules for Parameter Names: <br/>
 		(1) Can’t use special words.   
