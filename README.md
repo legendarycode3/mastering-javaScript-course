@@ -363,6 +363,11 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
 		While a “return statement” , gets a value out of a function  <br/>
 		A parameter works the same way as a variable.  <br/>
+		E.g. </br>
+		//  How to use a function Parameter </br>
+		function calculateTax(cost){ </br>
+            console.log(cost * 0.1); </br>
+        } </br>
 
 	✔️ Rules for Parameter Names: <br/>
 		(1) Can’t use special words.   
@@ -402,6 +407,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	(c) JSON.stringify();
 	(d) localStorage 
 	(e) DOM <br/>
+
+
 
 
 
