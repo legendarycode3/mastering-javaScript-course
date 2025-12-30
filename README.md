@@ -313,6 +313,14 @@ function congtratulation(name) { </br>
 let celebrate = congtratulation("LegendaryCode"); </br>
 console.log(celebrate); </br>
 
+3) Function that returns a numvber with paramenter insides </br>
+function addNumbers(numA, numB) { </br>
+  return numA + numB; </br>
+} </br>
+
+let sum = addNumbers(5, 8); </br>
+console.log(sum); </br> 
+
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
 		While a “return statement” , gets a value out of a function  <br/>
