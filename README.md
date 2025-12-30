@@ -330,6 +330,9 @@ console.log(sum); </br>
     return "Zero";
   }
 }
+let checkingNumber1 = viewNumber(7);
+let checkingNumber2 = viewNumber(-1);
+let checkingNumber3 = viewNumber(0);
 
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
