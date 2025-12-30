@@ -303,6 +303,8 @@ Eg. Examples illustrating the use of return statement. </br>
 		// This  calls the function </br>
 	function1(); </br>
 
+	//Display answer: 5
+
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
 		While a “return statement” , gets a value out of a function  <br/>
