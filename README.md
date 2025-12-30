@@ -334,6 +334,11 @@ let checkingNumber1 = viewNumber(7);
 let checkingNumber2 = viewNumber(-1);
 let checkingNumber3 = viewNumber(0);
 
+console.log(checkingNumber1);
+console.log(checkingNumber2);
+console.log(checkingNumber3);
+
+
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
 		While a “return statement” , gets a value out of a function  <br/>
