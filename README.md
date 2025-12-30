@@ -314,13 +314,22 @@ let celebrate = congtratulation("LegendaryCode"); </br>
 console.log(celebrate); </br>
 	//Display answer: Hello, Congratulation LegendaryCode </br>
 
-3) Function that returns a numvber with paramenter insides </br>
+3) Function that returns a sum of numbers with 2 paramenter insides </br>
 function addNumbers(numA, numB) { </br>
   return numA + numB; </br>
 } </br>
-
 let sum = addNumbers(5, 8); </br>
-console.log(sum); </br> 
+console.log(sum); </br>
+
+4) function viewNumber(num) {
+  if(num > 0) {
+    return "Positive";
+  } else if (num < 0) {
+    return "negative";
+  } else {
+    return "Zero";
+  }
+}
 
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
