@@ -423,6 +423,12 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	    };
 	    console.log(x);
 	}
+	else {
+    y = {
+        greetings: "Lesser , wrong 8 is lesser than "
+    };
+   		 console.log(y);
+	}
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
