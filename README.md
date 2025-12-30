@@ -357,7 +357,7 @@ console.log("Area of rectangle 2:", area2); // Output: Area of rectangle 2: 21 <
 const totalArea = area1 + area2; </br>
 console.log("Total area of both rectangles:", totalArea); // Output: Total area of both rectangles: 71 </br>
 
-## NOTE: When you use a return statement it ends the function immediately.
+## NOTE: In this example, calculateRectangleArea takes width and height as arguments, performs a calculation, and then returns the area. This allows the calculated area to be used outside the function, assigned to variables, and even used in further calculations. If the function didn't return a value, area1 and area2 would be undefined, and the subsequent operations would not work as intended. When you use a return statement it ends the function immediately. </br>
 
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
