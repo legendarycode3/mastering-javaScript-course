@@ -293,6 +293,9 @@ true, false. <br/>
 
 NOTE: With a “return value or return function” , you can use the value returned outside of a particular function.  <br/>
 
+Eg. Examples illustrating the use of return statement. </br>
+
+
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
 		While a “return statement” , gets a value out of a function  <br/>
 		A parameter works the same way as a variable.  <br/>
