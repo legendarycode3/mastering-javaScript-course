@@ -360,6 +360,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
  **NOTE: In this example, calculateRectangleArea takes width and height as arguments, performs a calculation, and then returns the area. This allows the calculated area to be used outside the function, assigned to variables, and even used in further calculations. If the function didn't return a value, area1 and area2 would be undefined, and the subsequent operations would not work as intended. When you use a return statement it ends the function immediately. </br>**
 
 
+
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
 		While a “return statement” , gets a value out of a function  <br/>
 		A parameter works the same way as a variable.  <br/>
@@ -412,6 +413,9 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	}; </br>
 	NOTE: Each property name on the example above is an identifier, (either a name , a number, or a string literal) , and each valueN is an expression whoose value is assigned to the property name. </br>
 	The property name  can also be an expresion. </br>
+
+	The following  statement creates an object and assigns it to the variable “x” if  and only if the expression condition is true else to “y” </br>
+
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
 	(1) JSON (a built in object): This object helps us workwith something called ‘JSON’. JSON stands for “JavaScript Object Notation”. The easiet way to understand json is: <br/>
