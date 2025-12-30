@@ -394,6 +394,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	NOTE:  Objects are values and we can save them inside a variable.  <br/>
 
 	✔️ Using Object initializers: </br>
+	Object initializers are also called “object literals”. “”Object initializer” is one of the primary ways to create an object in JavaScript. </br>
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
 	(1) JSON (a built in object): This object helps us workwith something called ‘JSON’. JSON stands for “JavaScript Object Notation”. The easiet way to understand json is: <br/>
