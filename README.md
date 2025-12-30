@@ -353,6 +353,10 @@ const rect2Height = 3;
 const area2 = calculateRectangleArea(rect2Width, rect2Height); // The returned value (21) is assigned to area2
 console.log("Area of rectangle 2:", area2); // Output: Area of rectangle 2: 21
 
+// Using the returned value in another operation
+const totalArea = area1 + area2;
+console.log("Total area of both rectangles:", totalArea); // Output: Total area of both rectangles: 71
+
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
 		While a “return statement” , gets a value out of a function  <br/>
