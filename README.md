@@ -338,6 +338,11 @@ console.log(checkingNumber1); </br>
 console.log(checkingNumber2); </br>
 console.log(checkingNumber3); </br>
 
+5) Function that calculates Rectangle Area </br>
+function calculateRectangleArea(width, height) {
+	const area = width * height;
+	return area; // Returns the calculated area
+}
 
 
 	✔️ Parameters:- Parameter are sort the opposite of a return statement. “Parameter” puts a value into a function. <br/>
