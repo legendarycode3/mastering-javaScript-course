@@ -321,22 +321,22 @@ function addNumbers(numA, numB) { </br>
 let sum = addNumbers(5, 8); </br>
 console.log(sum); </br>
 
-4) function viewNumber(num) {
-  if(num > 0) {
-    return "Positive";
-  } else if (num < 0) {
-    return "negative";
-  } else {
-    return "Zero";
-  }
-}
-let checkingNumber1 = viewNumber(7);
-let checkingNumber2 = viewNumber(-1);
-let checkingNumber3 = viewNumber(0);
+4) function viewNumber(num) { </br>
+  if(num > 0) { </br> </br>
+    return "Positive"; </br>
+  } else if (num < 0) { </br>
+    return "negative"; </br>
+  } else { </br>
+    return "Zero"; </br>
+  } </br>
+} </br>
+let checkingNumber1 = viewNumber(7); </br>
+let checkingNumber2 = viewNumber(-1); </br>
+let checkingNumber3 = viewNumber(0); </br>
 
-console.log(checkingNumber1);
-console.log(checkingNumber2);
-console.log(checkingNumber3);
+console.log(checkingNumber1); </br>
+console.log(checkingNumber2); </br>
+console.log(checkingNumber3); </br>
 
 
 
