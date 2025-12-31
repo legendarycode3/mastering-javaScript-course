@@ -467,6 +467,14 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	E.g. </br>
 	Product.name = ‘Nathan’; </br>
 
+	✔️ To “Add New Property” to the  object  </br>
+	Syntax: property.newPropertyHere = value; </br>
+	e.g  </br>
+	/* Adding  a New value To an object created */ </br>
+	product.newProperty = 'Williams'; </br>
+	product.newProperty = true; </br>
+	console.log(product); </br>
+
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
 	(1) JSON (a built in object): This object helps us workwith something called ‘JSON’. JSON stands for “JavaScript Object Notation”. The easiet way to understand json is: <br/>
