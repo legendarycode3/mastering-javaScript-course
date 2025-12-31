@@ -445,6 +445,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
  ✔️ Using Constructor function (To create an Object) </br>
  Alternatively, you can create an object with this two(2) steps below : </br>
+ a) Define the object type by writing a constructor function. There is a strong convention, with good reason, to use a capital initial letter. </br>
+ b) Create an instance of the object with “new”. </br>
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
