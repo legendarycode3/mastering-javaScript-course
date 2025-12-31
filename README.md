@@ -474,6 +474,14 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	product.newProperty = 'Williams'; </br>
 	product.newProperty = true; </br>
 	console.log(product); </br>
+	
+	✔️ To “remove” a value from an object </br>
+	
+	 Syntax: delete object.property; </br>
+	
+	E.g </br>
+	delete product.price;  </br>
+	console.log(product); </br>
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
