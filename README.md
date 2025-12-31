@@ -443,6 +443,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	}; </br>
 	console.log(`The total amount of DOORS on the car is: ${myBenz.doors} & the Engine cyclinder is: ${myBenz.engine.cylinders}`); </br>
 
+ ✔️ Using Constructor function (To create an Object) </br>
+
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
 	(1) JSON (a built in object): This object helps us workwith something called ‘JSON’. JSON stands for “JavaScript Object Notation”. The easiet way to understand json is: <br/>
