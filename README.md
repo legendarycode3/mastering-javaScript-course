@@ -483,6 +483,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	delete product.price;  </br>
 	console.log(product); </br>
 
+	NOTE: That an object is another type of value. </br>
+
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
 	(1) JSON (a built in object): This object helps us workwith something called ‘JSON’. JSON stands for “JavaScript Object Notation”. The easiet way to understand json is: <br/>
