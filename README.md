@@ -461,6 +461,11 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	
 	 NOTE:  This statement creates myCar and assign it to a specified value for its properties. </br>
 	Then the value of myCar.product is the string “Mercedez” ,  myCar.type is the string “GLK 470”,  myCar.generation Year is the integer 2024 </br>
+	
+	✔️ To “Change” a value from an object </br>
+	Syntax: property.object = value; </br>
+	E.g. </br>
+	Product.name = ‘Nathan’; </br>
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
