@@ -457,6 +457,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	} </br>
 	NOTE:  Notice the use of this to assign to assign vakues to the object’s properties  based on the values passed to the function. </br>
 	Now you can create an object to be able to call it. </br>
+	const myCar = new Car("Mercedez", "GLK 470", 2024); </br>
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
