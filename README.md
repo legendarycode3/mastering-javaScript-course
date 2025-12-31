@@ -448,6 +448,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
  a) Define the object type by writing a constructor function. There is a strong convention, with good reason, to use a capital initial letter. </br>
  b) Create an instance of the object with “new”. </br>
 
+ To define an object type, create a function for the object type that specifies it’s name, properties, and methods. </br>
+
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
 	(1) JSON (a built in object): This object helps us workwith something called ‘JSON’. JSON stands for “JavaScript Object Notation”. The easiet way to understand json is: <br/>
