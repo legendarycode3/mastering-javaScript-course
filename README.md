@@ -444,6 +444,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	console.log(`The total amount of DOORS on the car is: ${myBenz.doors} & the Engine cyclinder is: ${myBenz.engine.cylinders}`); </br>
 
  ✔️ Using Constructor function (To create an Object) </br>
+ Alternatively, you can create an object with this two(2) steps below : </br>
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
