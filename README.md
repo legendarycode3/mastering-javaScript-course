@@ -449,6 +449,12 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
  b) Create an instance of the object with “new”. </br>
 
  To define an object type, create a function for the object type that specifies it’s name, properties, and methods. </br>
+ E.G. </br>
+	function Car(product, type, generationYear ) { </br>
+	    this.product = product; //object instance created for "product" </br>
+	    this.type = type;   //object instance created for "type" </br>
+	    this.generationYear = generationYear;  //object instance created for "generationYear" </br>
+	} </br>
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
