@@ -456,6 +456,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	    this.generationYear = generationYear;  //object instance created for "generationYear" </br>
 	} </br>
 	NOTE:  Notice the use of this to assign to assign vakues to the object’s properties  based on the values passed to the function. </br>
+	Now you can create an object to be able to call it. </br>
 
 
 	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
