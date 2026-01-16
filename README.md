@@ -511,7 +511,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	null  = When you intentional want something to be empty </br>
 
 	✔️ Auto-Boxing: </br>
-	 when a property is accessed on a primitive value, since primitives do not have properties.  </br>
+	 when a property is accessed on a primitive value, since primitives do not have properties.  E.G. </br>
+	console.log('welcome'.length); //.length property
 
 
 
