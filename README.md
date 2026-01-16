@@ -522,6 +522,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	 const obj1 = { name: "Apple" }; </br>
 	 const obj2 = obj1;  // obj2 stores a reference to the same object </br>
 	 obj2.name = "Grape"; // Modify the object via obj2 </br>
+	 console.log(obj1.name); // Output: "Grape"  </br>
 
 
 
