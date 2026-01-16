@@ -516,6 +516,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	console.log('Hello'.toUpperCase()) //.toUpperCase method </br> 
 
 	✔️ Object Are References : </br>
+	 Object are reference means that, variables storing objects hold a reference to the object's location in memory, not the object's actual value itself.
 
 
 
