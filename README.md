@@ -515,6 +515,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	console.log('welcome'.length); //.length property </br>
 	console.log('Hello'.toUpperCase()) //.toUpperCase method </br> 
 
+	✔️ Object Are References : </br>
+
 
 
 
