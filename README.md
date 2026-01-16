@@ -512,7 +512,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
 	✔️ Auto-Boxing: </br>
 	 when a property is accessed on a primitive value, since primitives do not have properties.  E.G. </br>
-	console.log('welcome'.length); //.length property
+	console.log('welcome'.length); //.length property </br>
+	console.log('Hello'.toUpperCase()) //.toUpperCase method </br> 
 
 
 
