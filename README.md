@@ -524,6 +524,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	 obj2.name = "Grape"; // Modify the object via obj2 </br>
 	 console.log(obj1.name); // Output: "Grape"  </br>
 	 console.log(obj2.name); // Output: "Grape"  </br>
+	 
+	 E.g 2: </br>  
 
 
 
