@@ -520,6 +520,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	 This means that when you copy an object variable or pass it to a function, you are copying the reference, so multiple variables can point to the same underlying object in memory. 
 	 E.g 1:  </br>
 	 const obj1 = { name: "Apple" }; </br>
+	 const obj2 = obj1; // obj2 stores a reference to the same object </br>
 
 
 
