@@ -508,6 +508,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	(e) DOM <br/>
 
 	✔️ Differences B/w  null  and undefined : </br>
+	null  = When you intentional want something to be empty </br>
 
 
 
