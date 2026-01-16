@@ -517,6 +517,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
 	✔️ Object Are References : </br>
 	 Object are reference means that, variables storing objects hold a reference to the object's location in memory, not the object's actual value itself.
+	 This means that when you copy an object variable or pass it to a function, you are copying the reference, so multiple variables can point to the same underlying object in memory. 
 
 
 
