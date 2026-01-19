@@ -526,6 +526,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	 console.log(obj2.name); // Output: "Grape"  </br>
 	 
 	NOTE:  </br>  
+	 You can’t compare objects [it will give ‘false’ even if they are the same values in].
 
 
 
