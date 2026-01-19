@@ -628,6 +628,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	 This automates repetitive tasks, making code more efficient, organized, and easier to manage, adhering to the "Don't Repeat Yourself" (DRY) principle. </br>
 
 	✔️ Key Concepts of loop in javascript </br>
+	1.) Iteration:
 
 
 	✔️ Loops and Iterations <br/>
