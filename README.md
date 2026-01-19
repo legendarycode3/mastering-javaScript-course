@@ -529,6 +529,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	 You can’t compare objects [it will give ‘false’ even if they are the same values in].
 	 When you are comparing two variables that contains objects , you are actually comparing the references not the values inside. </br>
 	 NOTE:   Objects Are References . 
+	 Two distinct objects are never equal, even if they have the same properties.
 
 
 
