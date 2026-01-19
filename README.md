@@ -531,6 +531,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	 NOTE:   Objects Are References . 
 	 Two distinct objects are never equal, even if they have the same properties.
 
+	✔️ Object Method :  </br>
 
 
 
