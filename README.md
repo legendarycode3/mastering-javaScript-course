@@ -525,7 +525,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	 console.log(obj1.name); // Output: "Grape"  </br>
 	 console.log(obj2.name); // Output: "Grape"  </br>
 	 
-	 E.g 2: </br>  
+	NOTE:  </br>  
 
 
 
