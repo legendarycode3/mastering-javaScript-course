@@ -625,6 +625,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	✔️ Loops - What Is A Loop: <br/>
 	Lets us run some code over and over. Loops offer a quick and eazy way to do stuffs repeatly. <br/>
 	 A loop is a programming construct used to repeatedly execute a block of code until a specified condition is met. 
+	 This automates repetitive tasks, making code more efficient, organized, and easier to manage, adhering to the "Don't Repeat Yourself" (DRY) principle. 
 
 
 	✔️ Loops and Iterations <br/>
