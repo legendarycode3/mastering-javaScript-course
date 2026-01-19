@@ -566,6 +566,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
 	NOTE:  </br>
 	When we get a value from the DOM, the value will be a ‘string’. 
+	So therefore, in other to do Math, we have to manually convert the ‘String’ into a number. </br>
 
 
 	✔️ Processes  To JavaScript (problem solving) <br/>
