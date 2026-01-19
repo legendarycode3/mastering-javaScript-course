@@ -565,6 +565,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	(iii) So the DOM combines JS & HTML together, it gives javascript full control of the webpage. <br/>
 
 	NOTE:  </br>
+	When we get a value from the DOM, the value will be a ‘string’. 
+
 
 	✔️ Processes  To JavaScript (problem solving) <br/>
 	a)Figure out what steps we need (algorithm). <br/>
