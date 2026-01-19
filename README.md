@@ -532,6 +532,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	 Two distinct objects are never equal, even if they have the same properties.
 
 	✔️ Object Method :  </br>
+	Object method are actions that can be performed on objects. </br>
 
 
 
