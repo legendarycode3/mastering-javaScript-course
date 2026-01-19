@@ -564,6 +564,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	(ii) So using the “DOM” , we can get HTML elements from the page put it inside a javaScript & then save it in a Variable. <br/>
 	(iii) So the DOM combines JS & HTML together, it gives javascript full control of the webpage. <br/>
 
+	NOTE:  </br>
+
 	✔️ Processes  To JavaScript (problem solving) <br/>
 	a)Figure out what steps we need (algorithm). <br/>
 	b)Convert the above algorithm steps into  “Codes” <br/>
