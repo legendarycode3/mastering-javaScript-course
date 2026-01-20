@@ -858,7 +858,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	NOTE: {  <br/>
 	Promise: Is  fundamental concept for handling “asynchronous operation” in javascript. <br/>
 		A Promise manages asynchronous code, allowing the rest of your program to    
-	
+		continue running without being "blocked" while the asynchronous task (such as 
 		Fetch: A better way to make “HTTP request”.  Becus it uses Promises directly. <br/>
 		A specific API that utilizes promises to perform network requests. <br/>
 	} <br/>
