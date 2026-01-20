@@ -919,6 +919,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
  The XMLHttpRequest (XHR) object is a built-in JavaScript API used to make HTTP
  requests to a server and process the responses asynchronously without a full page
  reload. This technique is the foundation of AJAX (Asynchronous JavaScript and
+ XML). </br>
  E.g 1:   using XMLHttpRequest </br>
 export function loadProducts(fun) { </br>
   // CREATING A REQUEST (USING "XML") </br>
