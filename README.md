@@ -920,6 +920,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
  requests to a server and process the responses asynchronously without a full page
  reload. This technique is the foundation of AJAX (Asynchronous JavaScript and
  XML). </br>
+ While modern web development typically favors the simpler, promise-based Fetch API for
  E.g 1:   using XMLHttpRequest </br>
 export function loadProducts(fun) { </br>
   // CREATING A REQUEST (USING "XML") </br>
