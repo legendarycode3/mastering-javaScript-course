@@ -921,6 +921,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
  reload. This technique is the foundation of AJAX (Asynchronous JavaScript and
  XML). </br>
  While modern web development typically favors the simpler, promise-based Fetch API for
+new projects, understanding XHR is still important for working with legacy code,
+ 
  E.g 1:   using XMLHttpRequest </br>
 export function loadProducts(fun) { </br>
   // CREATING A REQUEST (USING "XML") </br>
