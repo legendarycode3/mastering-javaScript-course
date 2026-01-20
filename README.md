@@ -1029,8 +1029,9 @@ getData() </br>
     }); </br>
 
 
-3.) Async / Await:e A better way to handle “asynchronous code” . </br>
-	i.) “Async await”:  s a shortcut for promises( it remove all the extra codes when using promise). </br> 
+3.) Async / Await:  A better way to handle “asynchronous code” . </br>
+	async and await are modern JavaScript keywords  that provide
+	i.) “Async await”:  Is a shortcut for promises( it remove all the extra codes when using promise). </br> 
 	ii.) “async” = makes a function return a promise. And “async” lets us use await. </br>
 	iii.) “async await” , can only be used with promises. </br>
 	iv.) Lets us “write asyncronous code” like normal code. </br>
