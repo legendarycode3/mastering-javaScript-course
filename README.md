@@ -820,6 +820,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	We can send a request to each “url paths” and this url path will give us a different response. <br/>
 
 	✔️ Status Code: <br/>
+	An HTTP status code is a three-digit number a web server sends back to a browser
 	A status code that Starts with 4 or  5 (400, 404, 500)  =  “failed" </br>
 	a) If it “starts with 4” , it means , “it was our problem” (client-side error). </br>
 	b) If it  a “400 error”, it means the “server those not understand the request” due to a client-side syntax issue. (client-side error). </br>
