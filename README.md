@@ -1054,6 +1054,7 @@ getData() </br>
 ✔️ Error Handling:  “Error handling” in javascript is crucial for creating robust and stable applications. </br>
 “Error handling” allows you to manage unexpected issues that occur during execution of your code. </br>
 Error handling in JavaScript is primarily managed using the try...catch...finally 
+mechanisms include the throw statement for custom errors, handling errors in
 statement to gracefully manage runtime errors and prevent application crashes. Other
 NOTE: When we’re sending HTTP requests, we could get unexpected errors. </br>
 - Handling Error in“call-backs”: </br>
