@@ -833,6 +833,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	
 
 	✔️ CALL BACK:   Is a function that is passed as an argument to another function and is executed after some operation has completed. 
+	This is possible because functions in JavaScript are "first-class citizens," 
 	A function to run in the future. “fun” parameter is known as a callBack. <br/>
 	E.g 1 </br>
 		function loadProducts(fun) </br>
