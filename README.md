@@ -677,6 +677,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	Modules are self-contained files of reusable code that help organize and
 	structure large applications by allowing developers to export functions, objects, and
 	variables from one file and import them into others. </br>
+    This system prevents naming
 
 	✔️ NOTE:	Two (2) Importants things you need to know about “modules”. <br/>
 	(1.) Put all “imports” at the top of the file. <br/>
