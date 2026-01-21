@@ -824,6 +824,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	(client) to indicate the result of a request, showing if it succeeded (2xx), failed (4xx/5xx),
 	or needed redirection (3xx). </br>
 	These codes, like the common 404 Not Found or 200 OK, are vital for debugging, ensuring smooth user experiences, and helping search engines
+	understand web content.  </br>
 	A status code that Starts with 4 or  5 (400, 404, 500)  =  “failed" </br>
 	a) If it “starts with 4” , it means , “it was our problem” (client-side error). </br>
 	b) If it  a “400 error”, it means the “server those not understand the request” due to a client-side syntax issue. (client-side error). </br>
