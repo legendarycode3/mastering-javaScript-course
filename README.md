@@ -396,7 +396,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
 	✔️ Using Object initializers: </br>
 	Object initializers are also called “object literals”. “”Object initializer” is one of the primary ways to create an object in JavaScript. </br>
-	An object initializer is an expression defined by a comma-separated list of zero or more property-value pairs enclosed in curly braces ({}). This method is a quick and concise way to create a single object with predefined 		       properties and values. </br>
+	An object initializer is an expression defined by a comma-separated list of zero or more property-value pairs enclosed in curly braces ({}). This method is a quick and concise way to create a single object with predefined properties and values. </br>
 
 	EG 1: </br>
 	const champion = { </br>
@@ -677,7 +677,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	Modules are self-contained files of reusable code that help organize and
 	structure large applications by allowing developers to export functions, objects, and
 	variables from one file and import them into others. </br>
-    This system prevents naming
+    This system prevents naming conflicts and improves maintainability and reusability.  </br>
 
 	✔️ NOTE:	Two (2) Importants things you need to know about “modules”. <br/>
 	(1.) Put all “imports” at the top of the file. <br/>
