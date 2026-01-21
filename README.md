@@ -674,6 +674,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	✔️ **Modules:** A better way to organize our code. <br/>
 	Module helps us to avoid “naming comflit”. <br/>
 	Lets say we we create diff. Pages and uses “script.js” to add all , but it not a best way to use it , if not module. <br/>
+	Modules are self-contained files of reusable code that help organize and
 
 	✔️ NOTE:	Two (2) Importants things you need to know about “modules”. <br/>
 	(1.) Put all “imports” at the top of the file. <br/>
