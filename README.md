@@ -832,7 +832,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	c) If it a Status Code of (204) means = the request was successful, but the server is not returning any content in the response body. </br>
 	
 
-	✔️ CALL BACK:   A function to run in the future. “fun” parameter is known as a callBack. <br/>
+	✔️ CALL BACK:   Is a function that is passed as an argument to another function and is executed after some operation has completed. 
+	A function to run in the future. “fun” parameter is known as a callBack. <br/>
 	E.g 1 </br>
 		function loadProducts(fun) </br>
 		{
