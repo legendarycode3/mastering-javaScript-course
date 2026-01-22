@@ -97,7 +97,7 @@ Javascript is the technology we use to create Websites. We use javascript to mod
 
 
 ➡️ **STRINGS (IN JAVASCRIPT)** <br/>
-
+	A string is a primitive data type used to represent and manipulate a
    ✔️  **Strings = text** <br/>
       Concatenation means when we combine strings together (e.g ‘some’ + ‘more’) . <br/>
       E.g  of concatenated string 
