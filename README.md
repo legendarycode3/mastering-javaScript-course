@@ -99,7 +99,7 @@ Javascript is the technology we use to create Websites. We use javascript to mod
 ➡️ **STRINGS (IN JAVASCRIPT)** <br/>
 	A string is a primitive data type used to represent and manipulate a
 	sequence of characters, essentially textual data. Strings are immutable, meaning their
-	content cannot be changed after creation, but methods return a new string based on the
+	content cannot be changed after creation, but methods return a new string based on the original. </br>
    ✔️  **Strings = text** <br/>
       Concatenation means when we combine strings together (e.g ‘some’ + ‘more’) . <br/>
       E.g  of concatenated string 
@@ -542,6 +542,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	✔️ DOM is another built-in Object. <br/>
 	The document object represents / models of  the webpage. <br/>
 	The DOM combines “javascript” and Html together . It gives javascript full control of the webpage. <br/>
+	Document Object Model (DOM) is a programming interface for web
 
 	✔️ Syntax Rules For The DOM:  <br/>
 	The DOM contains “properties” [like:  body , title] that we can access using  the dot 	notation. <br/>
