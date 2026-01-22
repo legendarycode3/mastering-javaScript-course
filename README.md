@@ -546,6 +546,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	documents that allows JavaScript to access and manipulate the content, structure,
 	and style of a web page. The browser creates this tree-like representation of the
 	HTML document, turning every HTML element into a JavaScript object, which can then
+	be modified dynamically in response to user actions or other events. </br>
 	
 
 	✔️ Syntax Rules For The DOM:  <br/>
