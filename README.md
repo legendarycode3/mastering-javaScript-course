@@ -797,6 +797,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	infrastructure managing data, logic, and databases that power the
 	user-facing "frontend," handling things like user authentication, data
 	storage, and server communication through APIs, ensuring everything
+	works smoothly behind the scenes. It uses languages like Python,
 
 	✔️ Types Of Request/Message (That We Can Give To The BackEnd):   <br/>
 	(1) “GET”  =  Means , to “get some” information from the backend.  <br/>
