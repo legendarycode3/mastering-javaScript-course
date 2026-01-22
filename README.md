@@ -793,6 +793,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
 ➡️ **BACK END,  CALL BACKS, PROMISES, AND ASYNC** <br/>
 	✔️ What Is A BackEnd ?:   A backend is another computer that managers the data of a website.  <br/>
+	"Backend" refers to the server-side of applications, the hidden
 
 	✔️ Types Of Request/Message (That We Can Give To The BackEnd):   <br/>
 	(1) “GET”  =  Means , to “get some” information from the backend.  <br/>
