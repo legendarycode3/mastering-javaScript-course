@@ -545,6 +545,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	Document Object Model (DOM) is a programming interface for web
 	documents that allows JavaScript to access and manipulate the content, structure,
 	and style of a web page. The browser creates this tree-like representation of the
+	HTML document, turning every HTML element into a JavaScript object, which can then
 	
 
 	✔️ Syntax Rules For The DOM:  <br/>
