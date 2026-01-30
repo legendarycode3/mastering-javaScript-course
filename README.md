@@ -35,6 +35,7 @@ actions and engaging.  </br>
 executed line-by-line by a browser's built-in engine at runtime, rather than being pre-
 compiled into machine code.
 2.) Client-Side & Server-Side Originally designed for client-side execution (running in
+the user's browser), the introduction of runtime environments like Node.js has enabled
 
 
    ✔️ **Three (3) major technologies we use in creating website, they include:** <br/>
