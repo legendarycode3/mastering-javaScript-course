@@ -36,6 +36,7 @@ executed line-by-line by a browser's built-in engine at runtime, rather than bei
 compiled into machine code.
 2.) Client-Side & Server-Side Originally designed for client-side execution (running in
 the user's browser), the introduction of runtime environments like Node.js has enabled
+JavaScript to also be used for server-side (back-end) development.
 
 
    ✔️ **Three (3) major technologies we use in creating website, they include:** <br/>
