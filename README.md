@@ -32,6 +32,7 @@ actions and engaging.  </br>
 
   ✔️ **Key Characteristics Of Javascript** </br>
 1.) Interpreted JavaScript is traditionally an interpreted language, meaning code is 
+executed line-by-line by a browser's built-in engine at runtime, rather than being pre-
 
    ✔️ **Three (3) major technologies we use in creating website, they include:** <br/>
    1. Html
