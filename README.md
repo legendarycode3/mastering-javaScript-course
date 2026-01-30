@@ -34,6 +34,8 @@ actions and engaging.  </br>
 1.) Interpreted JavaScript is traditionally an interpreted language, meaning code is 
 executed line-by-line by a browser's built-in engine at runtime, rather than being pre-
 compiled into machine code.
+2.) Client-Side & Server-Side Originally designed for client-side execution (running in
+
 
    ✔️ **Three (3) major technologies we use in creating website, they include:** <br/>
    1. Html
