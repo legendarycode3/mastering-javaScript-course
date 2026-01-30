@@ -25,6 +25,8 @@ I will use Visual studio code and I will use it in this challenge too. I strongl
 ➡️ **What Is JavaScript ?** <br/>
 Javascript is the technology we use to create Websites. We use javascript to modify the Web Page. Javascript was create by “Brendan Eich” in 1995. <br/>
 JavaScript is a versatile, high-level programming language that is one of the core
+technologies of the World Wide Web, alongside HTML and CSS. It is primarily used to
+
 
    ✔️ **Three (3) major technologies we use in creating website, they include:** <br/>
    1. Html
