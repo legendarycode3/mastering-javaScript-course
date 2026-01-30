@@ -41,6 +41,7 @@ JavaScript to also be used for server-side (back-end) development. </br>
 flexibility but also the potential for runtime errors in larger projects. </br>
 4.) Event-Driven It can respond to user actions (events) like clicks, form inputs, and
 mouse movements, which is crucial for creating rich user experiences. </br>
+5.) Versatile JavaScript supports multiple programming paradigms, including object-
 
 
    ✔️ **Three (3) major technologies we use in creating website, they include:** <br/>
