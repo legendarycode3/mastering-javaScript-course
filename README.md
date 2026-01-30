@@ -30,6 +30,9 @@ create dynamic and interactive content on websites, making them responsive to us
 actions and engaging.  </br>
 
 
+  ✔️ **Key Characteristics Of Javascript** </br>
+
+
    ✔️ **Three (3) major technologies we use in creating website, they include:** <br/>
    1. Html
    2. Css
