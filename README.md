@@ -762,6 +762,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 		(ii.) Hard to re-test the code . <br/>
 	
 	(2) Automated Testing :-  Automated testing basically means ,  “using code to test code”.  Instead of manuelly opening the website and clicking around to try our code, we goona tell the computer to do the test for us. <br/>
+	Automated testing in JavaScript involves writing code using specialized frameworks and
 	
 	NOTE:   To create an “Automated test”, we just goona test some code to test this function. <br/>
 	First, lets create a folder, to group all of our test code together. <br/>
