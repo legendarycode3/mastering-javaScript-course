@@ -765,6 +765,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	Automated testing in JavaScript involves writing code using specialized frameworks and
 	libraries to automatically verify that a software or web application functions correctly.
 	This practice improves software quality, increases test coverage, and is essential for
+	continuous integration and delivery (CI/CD) pipelines. 
 	
 	
 	NOTE:   To create an “Automated test”, we just goona test some code to test this function. <br/>
