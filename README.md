@@ -772,6 +772,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	1. Unit Testing: Involves testing individual components or smallest pieces of code, such
 	as functions, in isolation. This is the foundation of the testing pyramid. </br>
 	
+	2. Integration Testing:
+	
 	
 	NOTE:   To create an “Automated test”, we just goona test some code to test this function. <br/>
 	First, lets create a folder, to group all of our test code together. <br/>
