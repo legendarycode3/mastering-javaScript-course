@@ -774,7 +774,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	
 	2. Integration Testing:  Focuses on testing how different units or modules of code work together correctly. </br>
 	
-	3. End-to-End (E2E) Testing: Also known as UI testing, this approach tests the entire
+	3. End-to-End (E2E) Testing: Also known as UI testing, this approach tests the entire application flow, simulating real user interactions across all components and third-party dependencies. </br>
 	
 	
 	NOTE:   To create an “Automated test”, we just goona test some code to test this function. <br/>
