@@ -774,6 +774,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	
 	2. Integration Testing:  Focuses on testing how different units or modules of code work together correctly. </br>
 	
+	3. End-to-End (E2E) Testing:
+	
 	
 	NOTE:   To create an “Automated test”, we just goona test some code to test this function. <br/>
 	First, lets create a folder, to group all of our test code together. <br/>
