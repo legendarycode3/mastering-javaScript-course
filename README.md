@@ -768,6 +768,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	continuous integration and delivery (CI/CD) pipelines.  </br>
 
 	Types of Automated Testing </br>
+	JavaScript test automation is applied across different levels of testing: </br>
 	
 	
 	NOTE:   To create an “Automated test”, we just goona test some code to test this function. <br/>
