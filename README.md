@@ -769,6 +769,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
 	Types of Automated Testing </br>
 	JavaScript test automation is applied across different levels of testing: </br>
+	1. Unit Testing: Involves testing individual components or smallest pieces of code, such
 	
 	
 	NOTE:   To create an “Automated test”, we just goona test some code to test this function. <br/>
