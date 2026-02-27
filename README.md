@@ -793,7 +793,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	(3) MochaJS <br/>
 
 	✔️ Popular JavaScript Testing Frameworks and Tools : </br>
-	
+	1. Jest: A widely used framework developed by 
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
 	
 
