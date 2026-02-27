@@ -800,6 +800,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	library, and powerful mocking capabilities. </br>
 	2.) Mocha: A flexible testing framework running on
 	Node.js that works well with various assertion
+	and mocking libraries (like Chai) and supports asynchronous code testing. </br>
 	
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
 	
