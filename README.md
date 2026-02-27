@@ -804,6 +804,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	3.) Cypress: A modern, all-in-one E2E testing 
 	framework that runs directly in the browser, 
 	offering a real-time feedback loop, automatic waiting, and network control features. </br>
+	4.) Playwright: Developed by Microsoft, it enables 
+
 	
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
 	
