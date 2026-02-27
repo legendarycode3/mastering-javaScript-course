@@ -803,6 +803,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	and mocking libraries (like Chai) and supports asynchronous code testing. </br>
 	3.) Cypress: A modern, all-in-one E2E testing 
 	framework that runs directly in the browser, 
+	offering a real-time feedback loop, automatic waiting, and network control features. </br>
 	
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
 	
