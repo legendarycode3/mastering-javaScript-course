@@ -792,6 +792,8 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	(2)Jest  (for ReactJS). <br/>
 	(3) MochaJS <br/>
 
+	✔️ Popular JavaScript Testing Frameworks and Tools : </br>
+	
 
 	✔️ How To Run Test Using Jasmine: <br/>
 	Testing Framework  =  helps us write tests easier <br/>
