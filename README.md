@@ -807,6 +807,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	4.) Playwright: Developed by Microsoft, it enables 
 	reliable E2E tests across Chromium, Firefox, 
 	and WebKit-based browsers with a single API, 
+	offering strong tools like a Trace Viewer for debugging. </br>
 
 	
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
