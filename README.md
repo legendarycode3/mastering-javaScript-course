@@ -215,8 +215,9 @@ true, false. <br/>
 		(vi.) Not equal to !== </br>
 
 	✔️ Conditional Operators: </br>
-		Conditional operators, in javascript , the primary conditional operator is  the “ternary operator ( ? : )”  It is a  shorthand way of writing “if … else statement”. 		Allowing you to evaluate condition and return one of two expressions based on  whetherthe condition is true or false. </br>
-		It is called “ternary operator” becus , it is the only operator in javascript  that takes three(3) operands : “a condition”, “an expression to execute if the 				condition is truthy”, and  “an expression to execute if the conditionis falsy”. </br>
+		Conditional operators, in javascript , the primary conditional operator is  the “ternary operator ( ? : )”  It is a  shorthand way of writing “if … else statement”. 		
+		Allowing you to evaluate condition and return one of two expressions based on  whetherthe condition is true or false. </br>
+		It is called “ternary operator” becus , it is the only operator in javascript  that takes three(3) operands : “a condition”, “an expression to execute if the condition is truthy”, and  “an expression to execute if the conditionis falsy”. </br>
 		General Syntax is as follows below: </br>
 		Condition ? expressionIfTrue : expressionIfFalse; </br>
 		e.g 1: </br>
@@ -795,6 +796,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	✔️ Popular JavaScript Testing Frameworks and Tools : </br>
 	1.) Jest: A widely used framework developed by 
 	Meta for unit and integration testing, known for 
+	its minimal configuration, built-in assertion 
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
 	
 
