@@ -809,6 +809,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	and WebKit-based browsers with a single API, 
 	offering strong tools like a Trace Viewer for debugging. </br>
 	5.) Selenium: A suite of tools for automating web browsers across 
+	different platforms and languages, often used with the Selenium 
 
 	
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
