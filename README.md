@@ -813,6 +813,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	WebDriver for cross-browser testing at scale. </br>
 	6.) Jasmine: A behavior-driven development (BDD) testing framework 
 	that does not rely on a browser, DOM, or any specific JavaScript 
+	framework, known for its clean, readable syntax.
 
 	
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
