@@ -815,6 +815,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	that does not rely on a browser, DOM, or any specific JavaScript 
 	framework, known for its clean, readable syntax.
 	7.) Puppeteer: A Node.js library developed by the Chrome team at 
+	Google that provides a high-level API to control Chrome/Chromium 
 
 	
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
