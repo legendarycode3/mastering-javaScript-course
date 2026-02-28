@@ -811,7 +811,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	5.) Selenium: A suite of tools for automating web browsers across 
 	different platforms and languages, often used with the Selenium 
 	WebDriver for cross-browser testing at scale. </br>
-	6.) Jasmine:
+	6.) Jasmine: A behavior-driven development (BDD) testing framework 
 
 	
 	NOTE: The choice of tool depends on the testing type and project requirements </br>
