@@ -923,6 +923,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	which is then executed (or "called back") at a later point in time. This mechanism is
     fundamental to JavaScript's event-driven and asynchronous programming model. </br>
 	Callbacks are essential for handling asynchronous operations like fetching data or
+	waiting for user interactions, as they allow the main program to continue running
 	
 	A function to run in the future. “fun” parameter is known as a callBack. <br/>
 	E.g 1 </br>
