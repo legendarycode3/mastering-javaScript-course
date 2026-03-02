@@ -1268,6 +1268,7 @@ When it is a Asyncrhonous code. </br>
 The try...catch statement is comprised of a try block and either a catch block, a
 finally block, or both. The code in the try block is executed first, and if it throws an
 exception, the code in the catch block will be executed. The code in the finally block
+will always be executed before control flow exits the entire construct.
 
 3) Throw Keyword: </br>
 
