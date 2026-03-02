@@ -1267,6 +1267,7 @@ When it is a Asyncrhonous code. </br>
 1) try...catch Statement: </br>
 The try...catch statement is comprised of a try block and either a catch block, a
 finally block, or both. The code in the try block is executed first, and if it throws an
+exception, the code in the catch block will be executed. The code in the finally block
 
 3) Throw Keyword: </br>
 
