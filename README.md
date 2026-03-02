@@ -1266,6 +1266,7 @@ When it is a Asyncrhonous code. </br>
 ✔️ The primary mechanisms for error handling In javascript are: </br>
 1) try...catch Statement: </br>
 The try...catch statement is comprised of a try block and either a catch block, a
+finally block, or both. The code in the try block is executed first, and if it throws an
 
 3) Throw Keyword: </br>
 
