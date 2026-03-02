@@ -1273,6 +1273,7 @@ will always be executed before control flow exits the entire construct. </br>
 3) Throw Keyword: </br>
 The throw keyword in JavaScript is used to create and raise a custom exception
 (error). When a throw statement is executed, the normal flow of the program is
+interrupted, and control is passed to the nearest catch block in the call stack. If no
 
 5) Error Object Properties: </br>
 
