@@ -1265,8 +1265,11 @@ When it is a Asyncrhonous code. </br>
 
 ✔️ The primary mechanisms for error handling In javascript are: </br>
 1) try...catch Statement: </br>
-2) Throw Keyword: </br>
-3) Error Object Properties: </br>
+The try...catch statement is comprised of a try block and either a catch block, a
+
+3) Throw Keyword: </br>
+
+4) Error Object Properties: </br>
 
 NOTE: </br>
 i.) “window.location”  Is a special object provided by javascript, used to control the URL  at the top of the Browser. </br>
