@@ -1276,7 +1276,7 @@ The throw keyword in JavaScript is used to create and raise a custom exception
 interrupted, and control is passed to the nearest catch block in the call stack. If no
 catch block is found, the program will terminate.  </br>
 
-3.) Asynchronous Error Handling:
+3.) Asynchronous Error Handling: JavaScript's asynchronous nature requires specific
 
 4) Error Object : </br>
 
