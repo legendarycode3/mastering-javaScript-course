@@ -1270,13 +1270,16 @@ finally block, or both. The code in the try block is executed first, and if it t
 exception, the code in the catch block will be executed. The code in the finally block
 will always be executed before control flow exits the entire construct. </br>
 
-3) Throw Keyword: </br>
+2) Throw Keyword: </br>
 The throw keyword in JavaScript is used to create and raise a custom exception
 (error). When a throw statement is executed, the normal flow of the program is
 interrupted, and control is passed to the nearest catch block in the call stack. If no
 catch block is found, the program will terminate.  </br>
 
-5) Error Object Properties: </br>
+3.) Asynchronous Error Handling:
+
+4) Error Object : </br>
+
 
 NOTE: </br>
 i.) “window.location”  Is a special object provided by javascript, used to control the URL  at the top of the Browser. </br>
