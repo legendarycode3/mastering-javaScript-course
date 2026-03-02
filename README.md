@@ -1272,8 +1272,9 @@ will always be executed before control flow exits the entire construct. </br>
 
 3) Throw Keyword: </br>
 The throw keyword in JavaScript is used to create and raise a custom exception
+(error). When a throw statement is executed, the normal flow of the program is
 
-4) Error Object Properties: </br>
+5) Error Object Properties: </br>
 
 NOTE: </br>
 i.) “window.location”  Is a special object provided by javascript, used to control the URL  at the top of the Browser. </br>
