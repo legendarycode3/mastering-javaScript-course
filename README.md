@@ -1277,6 +1277,7 @@ interrupted, and control is passed to the nearest catch block in the call stack.
 catch block is found, the program will terminate.  </br>
 
 3.) Asynchronous Error Handling: JavaScript's asynchronous nature requires specific
+patterns for error handling, as standard try...catch blocks only work synchronously. </br>
 
 4) Error Object : </br>
 
