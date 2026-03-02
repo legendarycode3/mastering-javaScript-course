@@ -1268,9 +1268,10 @@ When it is a Asyncrhonous code. </br>
 The try...catch statement is comprised of a try block and either a catch block, a
 finally block, or both. The code in the try block is executed first, and if it throws an
 exception, the code in the catch block will be executed. The code in the finally block
-will always be executed before control flow exits the entire construct.
+will always be executed before control flow exits the entire construct. </br>
 
 3) Throw Keyword: </br>
+The throw keyword in JavaScript is used to create and raise a custom exception
 
 4) Error Object Properties: </br>
 
