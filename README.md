@@ -664,7 +664,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	(a) While statement: While this condition is true it will keep running the code, (over and  over again) as soon as the condition is false it will stop the loop. <br/>	
 	(b) for loop statement:   Loops through a block of code a number of time. In JavaScript, the for loop is a control structure used to repeatedly execute a block of<br/>
 	NOTE:  
-	 	ForLoop use it when we are doing a “standard loop”.   <br/>
+	 	ForLoop use it when we are doing a “standard loop”. In JavaScript, the for loop is a control structure used to repeatedly execute a block of  <br/>
 		 While Loop we use it whenits a “non-standard loop”, meaning to be non-standard loop, it will not have a loop variable that will increase everytime & also don’t not have icreement step..   <br/>
 	c)do…while statement.  <br/>
 	d)Break statement.  <br/>
