@@ -608,7 +608,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	✔️ What is an Array: <br/>
 	(a) An “Array” 
 	- is another type of value or variable in javascript. <br/>
-	- An represents a list of  other values. <br/>
+	- An represents a list of  other values.  <br/>
 	(b) An “Array”  <br/>
 	- Is a special variable or type of variable , which can hold more than one(1) value under a single name.	
 	(c) Arrays  =  list of values  <br/>
@@ -662,7 +662,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
 	✔️ Loops and Iterations <br/>
 	(a) While statement: While this condition is true it will keep running the code, (over and  over again) as soon as the condition is false it will stop the loop. <br/>	
-	(b) for loop statement:   Loops through a block of code a number of time. <br/>
+	(b) for loop statement:   Loops through a block of code a number of time. In JavaScript, the for loop is a control structure used to repeatedly execute a block of<br/>
 	NOTE:  
 	 	ForLoop use it when we are doing a “standard loop”.   <br/>
 		 While Loop we use it whenits a “non-standard loop”, meaning to be non-standard loop, it will not have a loop variable that will increase everytime & also don’t not have icreement step..   <br/>
