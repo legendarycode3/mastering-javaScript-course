@@ -872,6 +872,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	Backend development is the server-side "brain" of applications, focusing on the
 	hidden logic, database interactions, and API communication that powers user-
 	facing frontend systems. It involves creating servers, managing data storage, ensuring
+	security, and processing requests using languages like Python, JavaScript (Node.js), or
 
 	✔️ Types Of Request/Message (That We Can Give To The BackEnd):   <br/>
 	(1) “GET”  =  Means , to “get some” information from the backend.  <br/>
