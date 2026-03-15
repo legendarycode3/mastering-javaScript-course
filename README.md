@@ -875,6 +875,10 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	security, and processing requests using languages like Python, JavaScript (Node.js), or
 	Java, alongside databases like SQL/NoSQL. </br>
 
+	Key Responsibilities: </br>
+	
+	
+
 	✔️ Types Of Request/Message (That We Can Give To The BackEnd):   <br/>
 	(1) “GET”  =  Means , to “get some” information from the backend.  <br/>
 	
