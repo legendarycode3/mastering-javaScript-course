@@ -877,6 +877,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 
 	Key Responsibilities: </br>
 	1. Data Management: Ensuring data is stored, retrieved, and updated correctly.
+	2. Performance Optimization: Improving speed through caching (e.g., Redis) and
 	
 	
 
