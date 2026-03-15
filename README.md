@@ -876,6 +876,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	Java, alongside databases like SQL/NoSQL. </br>
 
 	Key Responsibilities: </br>
+	1. Data Management: Ensuring data is stored, retrieved, and updated correctly.
 	
 	
 
