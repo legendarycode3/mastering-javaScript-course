@@ -869,6 +869,7 @@ console.log("Total area of both rectangles:", totalArea); // Output: Total area 
 	user-facing "frontend," handling things like user authentication, data
 	storage, and server communication through APIs, ensuring everything
 	works smoothly behind the scenes. </br>
+	Backend development is the server-side "brain" of applications, focusing on the
 
 	✔️ Types Of Request/Message (That We Can Give To The BackEnd):   <br/>
 	(1) “GET”  =  Means , to “get some” information from the backend.  <br/>
