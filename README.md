@@ -304,7 +304,7 @@ true, false. <br/>
 		b) A list of parameters to the function, enclosed in paranthesis separated by commas.  <br/>
 		c) The javascript statements that defiine the function , enclosed in curly braces , { /* … */ }  <br/>
 
-	✔️ Function Expression:  Functions can also be created by a function expression. Such functioncan be anonymous; It dies not have to have a name.  <br/>
+	✔️ Function Expression: A function expression in JavaScript defines a function as part of an expression, Functions can also be created by a function expression. Such functioncan be anonymous; It dies not have to have a name.  <br/>
 
 	✔️ Calling  Functions: Defining a function does not execute. Defining it names the function  and specifies what to do when the functionis called. Calling the function actually performs the specified actions with the indicated parameters. For example, if you define the function add, you could call it as follows:  <br/>
 
