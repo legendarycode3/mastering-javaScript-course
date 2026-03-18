@@ -310,6 +310,7 @@ true, false. <br/>
 	✔️ Calling  Functions: Defining a function does not execute. Defining it names the function  and specifies what to do when the functionis called. Calling the function actually performs the specified actions with the indicated parameters. For example, if you define the function add, you could call it as follows:  <br/>
 
 	✔️ Why do we use Function ? <br/>
+	 Functions are a fundamental building block in JavaScript and are used for several key
 		A function lets us re-use code. <br/>
 		Functions make our easier to update. <br/>
 
