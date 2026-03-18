@@ -312,8 +312,9 @@ true, false. <br/>
 	✔️ Why do we use Function ? <br/>
 	 Functions are a fundamental building block in JavaScript and are used for several key reasons that improve the overall quality and efficiency of the codebase. </br>
 	  Key Reasons:: </br>
-		A function lets us re-use code. <br/>
-		Functions make our easier to update. <br/>
+		1. A function lets us re-use code. <br/>
+		2. Modularity and Organization:
+		3. Functions make our code easier to update. <br/>
 		
 
 	✔️ Return Statement:   A return statement  lets us  get value out of a function. A  return statement in javascript functions serve to “exit the functions”  executionand optionally provide  value back to the caller. When a return statement is encountered , the function immediately stops running, and any code that follows the return statement within the function is not executed. If a value is specified after the return keyword, that value is return to the part of the code that called the function.  If  no value is specified , the function returns undefined.  <br/>
