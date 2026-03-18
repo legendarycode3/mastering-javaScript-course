@@ -313,7 +313,8 @@ true, false. <br/>
 	 Functions are a fundamental building block in JavaScript and are used for several key reasons that improve the overall quality and efficiency of the codebase. </br>
 	  Key Reasons:: </br>
 		1. A function lets us re-use code. <br/>
-		2. Modularity and Organization: Functions break down large, complex programs into smaller, self-contained, and manageable parts. This modular approach makes the
+		2. Modularity and Organization: Functions break down large, complex programs into smaller, self-contained, and manageable parts. 
+		   This modular approach makes the code easier to understand, work with, and maintain. </br>
 		3. Functions make our code easier to update. <br/>
 		
 
