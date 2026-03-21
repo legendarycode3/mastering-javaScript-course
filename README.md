@@ -317,7 +317,7 @@ true, false. <br/>
 		   This modular approach makes the code easier to understand, work with, and maintain. </br>
 		3. Functions make our code easier to update. <br/>
 		4. Readability:  Well-named functions act as documentation, making the code more readable and easier for other developers (and your future self) to understand what the code is intended to do. </br>
-		5. Abstraction: Functions allow developers to use complex logic without needing to
+		5. Abstraction: Functions allow developers to use complex logic without needing to understand the internal details of how that logic works. You only need to know the
 		
 
 	✔️ Return Statement:   A return statement  lets us  get value out of a function. A  return statement in javascript functions serve to “exit the functions”  executionand optionally provide  value back to the caller. When a return statement is encountered , the function immediately stops running, and any code that follows the return statement within the function is not executed. If a value is specified after the return keyword, that value is return to the part of the code that called the function.  If  no value is specified , the function returns undefined.  <br/>
