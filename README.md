@@ -319,7 +319,7 @@ true, false. <br/>
 		4. Readability:  Well-named functions act as documentation, making the code more readable and easier for other developers (and your future self) to understand what the code is intended to do. </br>
 		5. Abstraction: Functions allow developers to use complex logic without needing to understand the internal details of how that logic works. You only need to know the 
 			function's name, its required inputs (parameters/arguments), and what it returns as an output. </br>
-		6. Scope Management: Functions create their own local scope, which helps in
+		6. Scope Management: Functions create their own local scope, which helps in keeping the variable namespace clean. Variables defined inside a function are not
 		
 
 	✔️ Return Statement:   A return statement  lets us  get value out of a function. A  return statement in javascript functions serve to “exit the functions”  executionand optionally provide  value back to the caller. When a return statement is encountered , the function immediately stops running, and any code that follows the return statement within the function is not executed. If a value is specified after the return keyword, that value is return to the part of the code that called the function.  If  no value is specified , the function returns undefined.  <br/>
