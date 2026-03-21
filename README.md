@@ -322,6 +322,7 @@ true, false. <br/>
 		6. Scope Management: Functions create their own local scope, which helps in keeping the variable namespace clean. Variables defined inside a function are not
 			accessible from the outside, preventing accidental modification of data in other parts of the program. </br>
 		7. Dynamic Behavior:   Functions can accept different inputs (arguments) and process  them to produce different results, making the code dynamic and flexible. </br>
+		8. Flexibility (Input/Output):
 		
 
 	✔️ Return Statement:   A return statement  lets us  get value out of a function. A  return statement in javascript functions serve to “exit the functions”  executionand optionally provide  value back to the caller. When a return statement is encountered , the function immediately stops running, and any code that follows the return statement within the function is not executed. If a value is specified after the return keyword, that value is return to the part of the code that called the function.  If  no value is specified , the function returns undefined.  <br/>
